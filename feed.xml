@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzles at the table/饭间趣题</title>
+    <link>/</link>
+    <description>Recent content on Puzzles at the table/饭间趣题</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Jul 2017 17:26:13 +0300</lastBuildDate>
+    <atom:link href="/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>鱼塘玩家多雪崩</title>
+      <link>/number-of-bad-ranked-players/</link>
+      <pubDate>Mon, 31 Jul 2017 17:26:13 +0300</pubDate>
+      
+      <guid>/number-of-bad-ranked-players/</guid>
+      <description>&lt;p&gt;某次DOTA2赛事, 观众恰好坐成了一个 2014 X 2014 的方阵, 每个观众都有一个整数值的天梯分数 (没有的按0计算), 他们之间会相互比较自己的分数. 对于某个人, 如果前后左右相邻的人当中, 有不少于2人分数不低于他, 那么我们称这个人是 &amp;ldquo;雪崩的&amp;rdquo;, 求 &amp;ldquo;雪崩的&amp;rdquo; 人数最小值.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>子等差数列</title>
+      <link>/sub-arimethic-seq/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:56 +0300</pubDate>
+      
+      <guid>/sub-arimethic-seq/</guid>
+      <description>&lt;p&gt;数列 $a_n$ 定义如下: $a&lt;em&gt;1=1000000$, $a&lt;/em&gt;{n+1}=n [a_n/n]+n$, 问此数列是否有一个无穷子数列构成一个等差数列.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>大象食蕉</title>
+      <link>/elephant-bananas/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:44 +0300</pubDate>
+      
+      <guid>/elephant-bananas/</guid>
+      <description>&lt;p&gt;有一只大象，每走一米要吃一只香蕉，否则就走动了。然后大象要从A走到B，之间的距离是1000米。出发点有2000只香蕉，大象最多能带着1000只香蕉赶路。大象最多能运多少只香蕉到终点？怎么运？为什么这是最多了？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>猜猜谁的大?</title>
+      <link>/guess-2number-larger/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/guess-2number-larger/</guid>
+      <description>&lt;p&gt;甲乙心中合自想一个数字, 丙询问并得知了乙心中的数字, 不询问甲的情况下, 丙是否有一种策略使得他猜测乙的数字是否比甲大, 猜对的概率大于1/2?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>无限猜帽子颜色问题</title>
+      <link>/caps-color-guess-infinite/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:03 +0300</pubDate>
+      
+      <guid>/caps-color-guess-infinite/</guid>
+      <description>&lt;p&gt;无限(可数)个囚犯列成一队, 编号为1,2,3 &amp;hellip;, 每人头顶戴一蓝色或白色帽子, 对任意n, 囚犯 n 可以看到之后的所有人 (即 n+1,n+2,&amp;hellip;) 的帽子颜色, 典狱长将依次询问每个囚犯他们帽子的颜色, 猜对即刻无罪释放, 猜错即刻执行死刑. 问囚犯们在列队前能否商量好一个策略, 使得无论如何, 只会有有限个人死亡.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>合作猜硬币</title>
+      <link>/8-coins-guess/</link>
+      <pubDate>Mon, 31 Jul 2017 17:24:36 +0300</pubDate>
+      
+      <guid>/8-coins-guess/</guid>
+      <description>&lt;p&gt;甲乙面前各排列了8枚硬币, 硬币的正反面完全随机, 他们均只能看到自己的硬币. 游戏开始后, 甲乙各自写下将从对方那里取出给几号硬币, 如果他们均取了一枚正面朝上的硬币, 那么两人取胜, 否则记为游戏失败. 问是否有一个策略使得取胜概率超过1/4? 最佳策略的取胜概率为几?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>囚犯猜号码</title>
+      <link>/prisoner-box-label/</link>
+      <pubDate>Mon, 31 Jul 2017 17:24:22 +0300</pubDate>
+      
+      <guid>/prisoner-box-label/</guid>
+      <description>&lt;p&gt;100个编号的犯人, 一个小黑屋. 小黑屋里面有100个编号分别为1到100的箱子, 100个号码牌打乱分放在箱子里,每个箱子里一个. 每个犯人可以进一次小黑屋看50个箱子里的号码. 有人进小黑屋后所有人都不能交流.&lt;/p&gt;
+
+&lt;p&gt;犯人们的目标是找到哪个箱子里有自己的号码. 如果所有犯人都找对了自己号码的箱子则全部释放, 否则全部杀头, 找一个犯人的策略使得生存机会比较大.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>兔兔跳箱子</title>
+      <link>/rabbit-hopping-boxes/</link>
+      <pubDate>Mon, 31 Jul 2017 17:23:54 +0300</pubDate>
+      
+      <guid>/rabbit-hopping-boxes/</guid>
+      <description>&lt;p&gt;有编号为 1至5的箱子,有一只兔子藏于其中一个箱子里, 每次玩家可打开其中一个箱子, 如果没抓到兔子, 那么再打开下个箱子前, 兔子会跑到与它当时所在箱子相邻的一个箱子里, 问最快可保证于几步内抓到兔子.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>囚犯与开关问题</title>
+      <link>/prisoner-1-switch/</link>
+      <pubDate>Mon, 31 Jul 2017 17:23:34 +0300</pubDate>
+      
+      <guid>/prisoner-1-switch/</guid>
+      <description>&lt;p&gt;50名囚犯被关押, 从明日开始每天将有一名随机囚犯被带到一个房间, 此房间内有一个开关, 朝向可为向上或向下, 囚犯可自由拨动开关, 如果有一天, 一名囚犯扬言: 所有囚犯都已经去过那个带开关的房间, 并且事实亦如此, 那么所有人将被释放, 如若不然, 则全体死刑. 囚犯们只在今晚有一个商量策略的机会, 是否有一个策略可以保证大家被释放?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AKQ 游戏</title>
+      <link>/akq-game/</link>
+      <pubDate>Mon, 31 Jul 2017 17:22:57 +0300</pubDate>
+      
+      <guid>/akq-game/</guid>
+      <description>&lt;p&gt;荷官将三张牌 (分别为AKQ)洗匀并给甲乙各发一张, 甲乙均已注1元, 并还有1元可跟注, 由甲开始喊注, 甲不加注. 在此情况下, 问乙的最佳策略.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>distrait passenger</title>
+      <link>/distrait-passenger/</link>
+      <pubDate>Mon, 31 Jul 2017 16:58:02 +0300</pubDate>
+      
+      <guid>/distrait-passenger/</guid>
+      <description>&lt;p&gt;100 passengers enter the cabin in order, the first 10 passengers are distrait and randomly choose their seat. Other passengers comes in order, they will seat at their seat if it was not taken, or randomly choose an available seat otherwise. What is the Fun that the very last passenger seat in his own seat?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About/关于</title>
+      <link>/about/</link>
+      <pubDate>Mon, 27 Jun 2016 20:32:42 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+
+&lt;h3 id=&#34;关于为什么会有这个网站:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;关于为什么会有这个网站.&lt;/h3&gt;
+
+&lt;p&gt;一日与旧友相聚, 饭间谈及趣题, 兴致昂然, 欲表平生之所闻, 耐何题目细节已全然忘却, 遂生此计, 收集题目于此, 方便查阅. 若缘份读者亦有分享之意, 可于此处留言以告之.&lt;/p&gt;
+
+&lt;h3 id=&#34;why-such-website-exists:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Why such website exists.&lt;/h3&gt;
+
+&lt;p&gt;Once having fun with friends, we talked about funny puzzles, since I have seen many of them, I would like to propose the bests of my collections, having a memory of golden fish I never remember the details, hence I collect them here in order to have access from my phone. I will be pleased to add your collection here, if you leave me a message in the comment area.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
