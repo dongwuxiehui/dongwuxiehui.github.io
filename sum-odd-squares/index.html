@@ -2,18 +2,18 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <title>404 Page not found - Puzzles at the table/饭间趣题</title>
+  <title>sum-odd-squares - Puzzles at the table/饭间趣题</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="404 Page not found">
+  <meta name="description" content="问是否任意整数可以有无穷多种方法写成 $$\pm 1^2\pm 3^2\pm \cdots \pm (2k&#43;1)^2?$$">
   <meta name="author" content="动物协会">
-  <meta itemprop="name" content="404 Page not found - Puzzles at the table/饭间趣题">
-  <meta itemprop="description" content="404 Page not found">
+  <meta itemprop="name" content="sum-odd-squares - Puzzles at the table/饭间趣题">
+  <meta itemprop="description" content="问是否任意整数可以有无穷多种方法写成 $$\pm 1^2\pm 3^2\pm \cdots \pm (2k&#43;1)^2?$$">
   <meta itemprop="image" content="/img/author.jpg">
   
   
   <meta name="twitter:description" content="">
-  <link rel="alternate" href="/feed.xml" title="Puzzles at the table/饭间趣题" type="application/rss+xml"/>
+  
   <link rel="shortcut icon" href="/img/favicon.ico"/>
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" />
@@ -97,11 +97,89 @@ MathJax.Hub.Config({
 
   </header>
   <div id="container">
-    <div id="main">
-      
-      404 page not found/页面?不存在的.
-      
+    <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody">
+    <header class="article-info clearfix">
+  <h1 itemprop="name">
+      <a href="/sum-odd-squares/" title="sum-odd-squares" itemprop="url">sum-odd-squares</a>
+  </h1>
+  <p class="article-author">By
+    
+      <a href="" title="动物协会">动物协会</a>
+    
+  </p>
+  <p class="article-time">
+    <time datetime="2017-09-09 17:25:30 &#43;0300 IDT" itemprop="datePublished">2017-09-09</time>
+  </p>
+
+
+</header>
+
+<div class="article-content">
+
+		
+    
+    <p>问是否任意整数可以有无穷多种方法写成
+$$\pm 1^2\pm 3^2\pm \cdots \pm (2k+1)^2?$$</p>
+
+	</div>
+  <footer class="article-footer clearfix">
+  
+
+<div class="article-tags">
+  <span></span>
+  
+  <a href="/tags/fun">Fun</a>
+  
+</div>
+
+
+
+
+
+<div class="article-categories">
+  <span></span>
+  
+  <a class="article-category-link" href="/categories/fun">Fun</a>
+  
+</div>
+
+
+
+  <div class="article-share" id="share">
+    <div data-url="/sum-odd-squares/" data-title="sum-odd-squares" data-tsina="1816308191" class="share clearfix">
     </div>
+  </div>
+</footer>
+
+	</article>
+  
+
+
+<section class="comment">
+<div id="disqus_thread"></div>
+</section>
+<script>
+
+
+var disqus_config = function () {
+this.page.url = "/sum-odd-squares/";
+this.page.identifier = "/sum-odd-squares/";
+};
+(function() { 
+var d = document, s = d.createElement('script');
+
+s.src = '//myblog31415926.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+</div>
+
     <div class="openaside"><a class="navbutton" href="#" title="Show sidebar"></a></div>
 <div id="asidepart">
 <div class="closeaside"><a class="closebutton" href="#" title="Hide sidebar"></a></div>
@@ -109,7 +187,10 @@ MathJax.Hub.Config({
 <br>
 <br>
 	
-  
+ <div class="my-toc-article">
+			<p class="asidetitle">Table of contents</p>
+      
+		</div>
 
   
 
@@ -181,10 +262,6 @@ MathJax.Hub.Config({
 
 
   
-<div class="rsspart">
-  <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">RSS subscribe/关注</a>
-</div>
-
 
   </br>
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" align="center" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
@@ -269,7 +346,78 @@ $(document).ready(function(){
 });
 </script>
 
+<script type="text/javascript">
+$(document).ready(function(){
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
 
+
+
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript" src="/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+        $(".various").fancybox({
+                maxWidth	: 1920,
+                maxHeight	: 1080,
+                fitToView	: true,
+                width		: '80%',
+                height		: '80%',
+                autoSize	: true,
+                closeClick	: false,
+                openEffect	: 'none',
+                closeEffect	: 'none'
+        });
+  });
+  </script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+});
+</script>
 
 
 <script>
