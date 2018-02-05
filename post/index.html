@@ -27,7 +27,13 @@
   MathJax.Hub.Config({
     extensions: ["tex2jax.js"],
     jax: ["input/TeX","output/HTML-CSS"],
-    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+  }
   });
 </script>
 
@@ -42,31 +48,10 @@ h2 {
   border-bottom: 2px solid #999999;
 }
 </style>
-  <script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\\[','\\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-      }
-});
-  </script>
+
   <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
-</script>
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Queue(function() {
-    
-    
-    
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += '.has-jax';
-    }
 });
 </script>
 </head>
@@ -99,14 +84,96 @@ MathJax.Hub.Config({
   <div id="container">
     <div id="main">
       
-      <h2 id="2017-08">2017-08</h2>
+      <h2 id="2018-01">2018-01</h2>
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/beep/" title="没票的观众" itemprop="url">
-    <h2 itemprop="name">没票的观众 --- 2017-08-14</h2>
+    <a href="/rectangles-on-plan/" title="rectangles-on-plan " itemprop="url">
+    <h2 itemprop="name">rectangles-on-plan  --- 2018-01-30</h2>
   </a>
 </section>
 
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/light-in-a-cube/" title="light in a cube" itemprop="url">
+    <h2 itemprop="name">light in a cube --- 2018-01-15</h2>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/number-of-odd-digits/" title="number-of-odd-digits" itemprop="url">
+    <h2 itemprop="name">number-of-odd-digits --- 2018-01-08</h2>
+  </a>
+</section>
+
+      
+      
+      <h2 id="2017-11">2017-11</h2>
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/set-prob-yt/" title="set-prob-yt" itemprop="url">
+    <h2 itemprop="name">set-prob-yt --- 2017-11-05</h2>
+  </a>
+</section>
+
+      
+      
+      <h2 id="2017-10">2017-10</h2>
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/primaryschool/" title="primaryschool level puzzle" itemprop="url">
+    <h2 itemprop="name">primaryschool level puzzle --- 2017-10-07</h2>
+  </a>
+</section>
+
+      
+      
+      <h2 id="2017-09">2017-09</h2>
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/rectangledots/" title="rectangledots " itemprop="url">
+    <h2 itemprop="name">rectangledots  --- 2017-09-13</h2>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/toss-til-6/" title="toss-til-6 投个666" itemprop="url">
+    <h2 itemprop="name">toss-til-6 投个666 --- 2017-09-09</h2>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/sum-odd-squares/" title="sum-odd-squares" itemprop="url">
+    <h2 itemprop="name">sum-odd-squares --- 2017-09-09</h2>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/prisoner-box-label/" title="pri 囚犯猜号码" itemprop="url">
+    <h2 itemprop="name">pri 囚犯猜号码 --- 2017-09-09</h2>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/number-of-bad-ranked-players/" title="num 鱼塘玩家多雪崩" itemprop="url">
+    <h2 itemprop="name">num 鱼塘玩家多雪崩 --- 2017-09-09</h2>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/rabbit-hunter/" title="rabbit-hunter 兔子与猎人 " itemprop="url">
+    <h2 itemprop="name">rabbit-hunter 兔子与猎人  --- 2017-09-05</h2>
+  </a>
+</section>
+
+      
+      
+      <h2 id="2017-08">2017-08</h2>
       
       <section class="post" itemscope itemprop="blogPost">
     <a href="/light-on/" title="拉灯游戏" itemprop="url">
@@ -116,8 +183,15 @@ MathJax.Hub.Config({
 
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/cut-rope/" title="快刀乱麻斩" itemprop="url">
-    <h2 itemprop="name">快刀乱麻斩 --- 2017-08-14</h2>
+    <a href="/cut-rope/" title="cut-rope 快刀乱麻斩" itemprop="url">
+    <h2 itemprop="name">cut-rope 快刀乱麻斩 --- 2017-08-14</h2>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/beep/" title="beep " itemprop="url">
+    <h2 itemprop="name">beep  --- 2017-08-14</h2>
   </a>
 </section>
 
@@ -126,78 +200,64 @@ MathJax.Hub.Config({
       <h2 id="2017-07">2017-07</h2>
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/number-of-bad-ranked-players/" title="鱼塘玩家多雪崩" itemprop="url">
-    <h2 itemprop="name">鱼塘玩家多雪崩 --- 2017-07-31</h2>
+    <a href="/sub-arimethic-seq/" title="sub 子等差数列" itemprop="url">
+    <h2 itemprop="name">sub 子等差数列 --- 2017-07-31</h2>
   </a>
 </section>
 
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/sub-arimethic-seq/" title="子等差数列" itemprop="url">
-    <h2 itemprop="name">子等差数列 --- 2017-07-31</h2>
+    <a href="/rabbit-hopping-boxes/" title="rabbit-hopping-boxes 兔兔跳箱子" itemprop="url">
+    <h2 itemprop="name">rabbit-hopping-boxes 兔兔跳箱子 --- 2017-07-31</h2>
   </a>
 </section>
 
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/elephant-bananas/" title="大象食蕉" itemprop="url">
-    <h2 itemprop="name">大象食蕉 --- 2017-07-31</h2>
+    <a href="/prisoner-1-switch/" title="prisoner-1-switch 囚犯与开关问题" itemprop="url">
+    <h2 itemprop="name">prisoner-1-switch 囚犯与开关问题 --- 2017-07-31</h2>
   </a>
 </section>
 
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/guess-2number-larger/" title="猜猜谁的大?" itemprop="url">
-    <h2 itemprop="name">猜猜谁的大? --- 2017-07-31</h2>
+    <a href="/guess-2number-larger/" title="guess 猜猜谁的大?" itemprop="url">
+    <h2 itemprop="name">guess 猜猜谁的大? --- 2017-07-31</h2>
   </a>
 </section>
 
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/caps-color-guess-infinite/" title="无限猜帽子颜色问题" itemprop="url">
-    <h2 itemprop="name">无限猜帽子颜色问题 --- 2017-07-31</h2>
+    <a href="/elephant-bananas/" title="elephant bananas 大象食蕉" itemprop="url">
+    <h2 itemprop="name">elephant bananas 大象食蕉 --- 2017-07-31</h2>
   </a>
 </section>
 
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/8-coins-guess/" title="合作猜硬币" itemprop="url">
-    <h2 itemprop="name">合作猜硬币 --- 2017-07-31</h2>
+    <a href="/distrait-passenger/" title="distrait-passenger 心神恍惚的乘客" itemprop="url">
+    <h2 itemprop="name">distrait-passenger 心神恍惚的乘客 --- 2017-07-31</h2>
   </a>
 </section>
 
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/prisoner-box-label/" title="囚犯猜号码" itemprop="url">
-    <h2 itemprop="name">囚犯猜号码 --- 2017-07-31</h2>
+    <a href="/caps-color-guess-infinite/" title="caps 无限猜帽子颜色问题" itemprop="url">
+    <h2 itemprop="name">caps 无限猜帽子颜色问题 --- 2017-07-31</h2>
   </a>
 </section>
 
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/rabbit-hopping-boxes/" title="兔兔跳箱子" itemprop="url">
-    <h2 itemprop="name">兔兔跳箱子 --- 2017-07-31</h2>
+    <a href="/akq-game/" title="akq-game AKQ 游戏" itemprop="url">
+    <h2 itemprop="name">akq-game AKQ 游戏 --- 2017-07-31</h2>
   </a>
 </section>
 
       
       <section class="post" itemscope itemprop="blogPost">
-    <a href="/prisoner-1-switch/" title="囚犯与开关问题" itemprop="url">
-    <h2 itemprop="name">囚犯与开关问题 --- 2017-07-31</h2>
-  </a>
-</section>
-
-      
-      <section class="post" itemscope itemprop="blogPost">
-    <a href="/akq-game/" title="AKQ 游戏" itemprop="url">
-    <h2 itemprop="name">AKQ 游戏 --- 2017-07-31</h2>
-  </a>
-</section>
-
-      
-      <section class="post" itemscope itemprop="blogPost">
-    <a href="/distrait-passenger/" title="心神恍惚的乘客/Distrait passengers" itemprop="url">
-    <h2 itemprop="name">心神恍惚的乘客/Distrait passengers --- 2017-07-31</h2>
+    <a href="/8-coins-guess/" title="8-coins-guess 合作猜硬币" itemprop="url">
+    <h2 itemprop="name">8-coins-guess 合作猜硬币 --- 2017-07-31</h2>
   </a>
 </section>
 
@@ -219,7 +279,7 @@ MathJax.Hub.Config({
   <p class="asidetitle">Categories/类别</p>
   <ul>
     
-    <li><a href="/categories/fun" title="fun">fun<sup>14</sup></a></li>
+    <li><a href="/categories/fun" title="fun">fun<sup>23</sup></a></li>
     
   </ul>
 </div>
@@ -232,7 +292,7 @@ MathJax.Hub.Config({
 	<p class="asidetitle">Tags/标签</p>
 		<ul class="clearfix">
       
-			<li><a href="/tags/fun" title="fun">fun<sup>14</sup></a></li>
+			<li><a href="/tags/fun" title="fun">fun<sup>23</sup></a></li>
       
 		</ul>
 </div>
@@ -246,12 +306,32 @@ MathJax.Hub.Config({
       
       
       <li class="archive-list-item">
+        <a class="archive-list-link" href="/post/#2018-01">2018-01</a><span class="archive-list-count">3</span>
+      </li>
+      
+      
+      <li class="archive-list-item">
+        <a class="archive-list-link" href="/post/#2017-11">2017-11</a><span class="archive-list-count">1</span>
+      </li>
+      
+      
+      <li class="archive-list-item">
+        <a class="archive-list-link" href="/post/#2017-10">2017-10</a><span class="archive-list-count">1</span>
+      </li>
+      
+      
+      <li class="archive-list-item">
+        <a class="archive-list-link" href="/post/#2017-09">2017-09</a><span class="archive-list-count">6</span>
+      </li>
+      
+      
+      <li class="archive-list-item">
         <a class="archive-list-link" href="/post/#2017-08">2017-08</a><span class="archive-list-count">3</span>
       </li>
       
       
       <li class="archive-list-item">
-        <a class="archive-list-link" href="/post/#2017-07">2017-07</a><span class="archive-list-count">11</span>
+        <a class="archive-list-link" href="/post/#2017-07">2017-07</a><span class="archive-list-count">9</span>
       </li>
       
       

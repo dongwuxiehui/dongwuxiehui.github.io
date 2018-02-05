@@ -6,43 +6,73 @@
     <description>Recent content in Posts on Puzzles at the table/饭间趣题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Aug 2017 00:27:05 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 17:25:30 +0300</lastBuildDate>
     <atom:link href="/post/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>没票的观众</title>
-      <link>/beep/</link>
-      <pubDate>Mon, 14 Aug 2017 00:27:05 +0300</pubDate>
+      <title>rectangles-on-plan </title>
+      <link>/rectangles-on-plan/</link>
+      <pubDate>Tue, 30 Jan 2018 17:25:30 +0300</pubDate>
       
-      <guid>/beep/</guid>
-      <description>&lt;p&gt;有n个人, 每个人有一个 小与1的正数 &lt;code&gt;\( p_i \)&lt;/code&gt;, 每个人只知道自己的数, 每一轮他们可选择发出哔哔声, 场外听众只能听到有哔声或者没有, 问他们如何才能使场外观众每轮听到哔的概率为 &lt;code&gt;\( p_i \)&lt;/code&gt; 的乘积? 假如有些人的 &lt;code&gt;\( p_i&amp;gt;1 \)&lt;/code&gt; 但乘积小与1, 是否可以使得听众每 &lt;code&gt;\( \log n \)&lt;/code&gt;  轮连续听到哔哔声的概率为乘积?&lt;/p&gt;
+      <guid>/rectangles-on-plan/</guid>
+      <description>&lt;p&gt;Given a finite number of rectangles, the edges are all parallele to the x,y axis. Such that, any two of them, we can draw a vertical line or a horizontal line that cross both of them, they are all disjoint. Prove that, we can draw a cross (that is, a vertical line and a horizontal line), that joint all the rectangles.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>拉灯游戏</title>
-      <link>/light-on/</link>
-      <pubDate>Mon, 14 Aug 2017 00:24:49 +0300</pubDate>
+      <title>light in a cube</title>
+      <link>/light-in-a-cube/</link>
+      <pubDate>Mon, 15 Jan 2018 17:25:30 +0300</pubDate>
       
-      <guid>/light-on/</guid>
-      <description>&lt;p&gt;取一个联通图, 每个顶点有盏灯及一个开关, 拨动开关后,与该顶点的相邻的顶点的灯将改变状态, 问怎样的图才可从灯全灭 按至灯全亮.&lt;/p&gt;
+      <guid>/light-in-a-cube/</guid>
+      <description>&lt;p&gt;A 3D cube we stand at one corner, all the faces are mirrors and we have a bean light, can we point at some direction and blind ourself (that means, the light bean hit the corner exactly where we standed after several reflections).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>快刀乱麻斩</title>
-      <link>/cut-rope/</link>
-      <pubDate>Mon, 14 Aug 2017 00:22:11 +0300</pubDate>
+      <title>number-of-odd-digits</title>
+      <link>/number-of-odd-digits/</link>
+      <pubDate>Mon, 08 Jan 2018 17:25:30 +0300</pubDate>
       
-      <guid>/cut-rope/</guid>
-      <description>&lt;p&gt;将一段1米长的绳子随机切断,然后随机选择一段, 再次随机切断, 不停重复, 问最后剩下的那个点原来所在位置的概率分布.&lt;/p&gt;
+      <guid>/number-of-odd-digits/</guid>
+      <description>&lt;p&gt;A question you can ask to chiese primary school students, how many odd digits are there in the product &lt;code&gt;\(2018\cdots 2018\times 15151414\cdots 0707\)&lt;/code&gt;, where the first factor is 2018 repeated 28 times.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>鱼塘玩家多雪崩</title>
+      <title>set-prob-yt</title>
+      <link>/set-prob-yt/</link>
+      <pubDate>Sun, 05 Nov 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/set-prob-yt/</guid>
+      <description>&lt;p&gt;Let &lt;code&gt;\(A_1 ,\ldots,A_n\)&lt;/code&gt; be finite subsets of positive integers, such that no two of the &lt;code&gt;\(A_i\)&lt;/code&gt; have same number of elements and &lt;code&gt;\(A_i\)&lt;/code&gt; is not a subset of &lt;code&gt;\(A_j\)&lt;/code&gt; for &lt;code&gt;\(i\ne j\)&lt;/code&gt;. What is the smallest possible number of elements in &lt;code&gt;\(\cup_i A_i\)&lt;/code&gt;?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>primaryschool level puzzle</title>
+      <link>/primaryschool/</link>
+      <pubDate>Sat, 07 Oct 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/primaryschool/</guid>
+      <description>&lt;p&gt;是否存在一个整数,使得它的1倍,2倍,&amp;hellip;,100000 倍 的末六位不是 6个一样的数字, 即 000000, 111111, &amp;hellip; , 999999.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>rectangledots </title>
+      <link>/rectangledots/</link>
+      <pubDate>Wed, 13 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/rectangledots/</guid>
+      <description>&lt;p&gt;Size of maximal set of points in an n X n (side length) grid such that no 4-set of it forms a rectangle with horizontal/vertical sides.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>num 鱼塘玩家多雪崩</title>
       <link>/number-of-bad-ranked-players/</link>
-      <pubDate>Mon, 31 Jul 2017 17:26:13 +0300</pubDate>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
       
       <guid>/number-of-bad-ranked-players/</guid>
       <description>&lt;p&gt;某次DOTA2赛事, 观众恰好坐成了一个 2014 X 2014 的方阵, 每个观众都有一个整数值的天梯分数 (没有的按0计算), 他们之间会相互比较自己的分数. 对于某个人, 如果前后左右相邻的人当中, 有不少于2人分数不低于他, 那么我们称这个人是 &amp;ldquo;雪崩的&amp;rdquo;, 求 &amp;ldquo;雪崩的&amp;rdquo; 人数最小值.&lt;/p&gt;
@@ -50,59 +80,9 @@
     </item>
     
     <item>
-      <title>子等差数列</title>
-      <link>/sub-arimethic-seq/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:56 +0300</pubDate>
-      
-      <guid>/sub-arimethic-seq/</guid>
-      <description>&lt;p&gt;数列 $a_n$ 定义如下: $a&lt;em&gt;1=1000000$, $a&lt;/em&gt;{n+1}=n [a_n/n]+n$, 问此数列是否有一个无穷子数列构成一个等差数列.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>大象食蕉</title>
-      <link>/elephant-bananas/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:44 +0300</pubDate>
-      
-      <guid>/elephant-bananas/</guid>
-      <description>&lt;p&gt;有一只大象，每走一米要吃一只香蕉，否则就走动了。然后大象要从A走到B，之间的距离是1000米。出发点有2000只香蕉，大象最多能带着1000只香蕉赶路。大象最多能运多少只香蕉到终点？怎么运？为什么这是最多了？&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>猜猜谁的大?</title>
-      <link>/guess-2number-larger/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
-      
-      <guid>/guess-2number-larger/</guid>
-      <description>&lt;p&gt;甲乙心中合自想一个数字, 丙询问并得知了乙心中的数字, 不询问甲的情况下, 丙是否有一种策略使得他猜测乙的数字是否比甲大, 猜对的概率大于1/2?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>无限猜帽子颜色问题</title>
-      <link>/caps-color-guess-infinite/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:03 +0300</pubDate>
-      
-      <guid>/caps-color-guess-infinite/</guid>
-      <description>&lt;p&gt;无限(可数)个囚犯列成一队, 编号为1,2,3 &amp;hellip;, 每人头顶戴一蓝色或白色帽子, 对任意n, 囚犯 n 可以看到之后的所有人 (即 n+1,n+2,&amp;hellip;) 的帽子颜色, 典狱长将依次询问每个囚犯他们帽子的颜色, 猜对即刻无罪释放, 猜错即刻执行死刑. 问囚犯们在列队前能否商量好一个策略, 使得无论如何, 只会有有限个人死亡.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>合作猜硬币</title>
-      <link>/8-coins-guess/</link>
-      <pubDate>Mon, 31 Jul 2017 17:24:36 +0300</pubDate>
-      
-      <guid>/8-coins-guess/</guid>
-      <description>&lt;p&gt;甲乙面前各排列了8枚硬币, 硬币的正反面完全随机, 他们均只能看到自己的硬币. 游戏开始后, 甲乙各自写下将从对方那里取出给几号硬币, 如果他们均取了一枚正面朝上的硬币, 那么两人取胜, 否则记为游戏失败. 问是否有一个策略使得取胜概率超过1/4? 最佳策略的取胜概率为几?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>囚犯猜号码</title>
+      <title>pri 囚犯猜号码</title>
       <link>/prisoner-box-label/</link>
-      <pubDate>Mon, 31 Jul 2017 17:24:22 +0300</pubDate>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
       
       <guid>/prisoner-box-label/</guid>
       <description>&lt;p&gt;100个编号的犯人, 一个小黑屋. 小黑屋里面有100个编号分别为1到100的箱子, 100个号码牌打乱分放在箱子里,每个箱子里一个. 每个犯人可以进一次小黑屋看50个箱子里的号码. 有人进小黑屋后所有人都不能交流.&lt;/p&gt;
@@ -112,44 +92,85 @@
     </item>
     
     <item>
-      <title>兔兔跳箱子</title>
-      <link>/rabbit-hopping-boxes/</link>
-      <pubDate>Mon, 31 Jul 2017 17:23:54 +0300</pubDate>
+      <title>sum-odd-squares</title>
+      <link>/sum-odd-squares/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
       
-      <guid>/rabbit-hopping-boxes/</guid>
-      <description>&lt;p&gt;有编号为 1至5的箱子,有一只兔子藏于其中一个箱子里, 每次玩家可打开其中一个箱子, 如果没抓到兔子, 那么再打开下个箱子前, 兔子会跑到与它当时所在箱子相邻的一个箱子里, 问最快可保证于几步内抓到兔子.&lt;/p&gt;
+      <guid>/sum-odd-squares/</guid>
+      <description>&lt;p&gt;问是否任意整数可以有无穷多种方法写成
+$$\pm 1^2\pm 3^2\pm \cdots \pm (2k+1)^2?$$&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>囚犯与开关问题</title>
-      <link>/prisoner-1-switch/</link>
-      <pubDate>Mon, 31 Jul 2017 17:23:34 +0300</pubDate>
+      <title>toss-til-6 投个666</title>
+      <link>/toss-til-6/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
       
-      <guid>/prisoner-1-switch/</guid>
-      <description>&lt;p&gt;50名囚犯被关押, 从明日开始每天将有一名随机囚犯被带到一个房间, 此房间内有一个开关, 朝向可为向上或向下, 囚犯可自由拨动开关, 如果有一天, 一名囚犯扬言: 所有囚犯都已经去过那个带开关的房间, 并且事实亦如此, 那么所有人将被释放, 如若不然, 则全体死刑. 囚犯们只在今晚有一个商量策略的机会, 是否有一个策略可以保证大家被释放?&lt;/p&gt;
+      <guid>/toss-til-6/</guid>
+      <description>&lt;p&gt;投一枚色子, 直到投到6停止, 在假定投到的数字全是偶数的前提下, 求平均需要投多少次?&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>AKQ 游戏</title>
-      <link>/akq-game/</link>
-      <pubDate>Mon, 31 Jul 2017 17:22:57 +0300</pubDate>
+      <title>rabbit-hunter 兔子与猎人 </title>
+      <link>/rabbit-hunter/</link>
+      <pubDate>Tue, 05 Sep 2017 17:25:30 +0300</pubDate>
       
-      <guid>/akq-game/</guid>
-      <description>&lt;p&gt;荷官将三张牌 (分别为AKQ)洗匀并给甲乙各发一张, 甲乙均已注1元, 并还有1元可跟注, 由甲开始喊注, 甲不加注. 在此情况下, 问乙的最佳策略.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>心神恍惚的乘客/Distrait passengers</title>
-      <link>/distrait-passenger/</link>
-      <pubDate>Mon, 31 Jul 2017 16:58:02 +0300</pubDate>
-      
-      <guid>/distrait-passenger/</guid>
-      <description>&lt;p&gt;100位乘客按顺序登机, 前10位登机的乘客心神恍惚, 每个人都随便选了一个无人的位置坐下. 后面的乘客则遵守规则, 希望坐到自己的座位上, 如果他们的座位已经有人, 他们则随机挑一个无人的位置坐下, 问最后一人坐在它自己的位置的概率是多大?&lt;/p&gt;
+      <guid>/rabbit-hunter/</guid>
+      <description>&lt;p&gt;一个兔子和一个猎人在平面上玩一个游戏, 兔子的出发点 &lt;code&gt;\( A_0 \)&lt;/code&gt; 和 猎人的出发点 &lt;code&gt;\( B_0 \)&lt;/code&gt; 相同. &lt;code&gt;\( n-1 \)&lt;/code&gt; 轮游戏后, 兔子位于 &lt;code&gt;\( A_{n-1} \)&lt;/code&gt; 而猎人位于 &lt;code&gt;\( B_{n-1} \)&lt;/code&gt; 处. 在第 &lt;code&gt;\( n \)&lt;/code&gt;  轮, 规则如下
+- 兔子可以选择移动至一个地点 &lt;code&gt;\( A_n, \)&lt;/code&gt; 此位置满足 &lt;code&gt;\( d(A_{n},A_{n-1})=1, \)&lt;/code&gt; 即两点局距为1. 且猎人不知道兔子的确切位置.
+- 猎人年久失修的仪表盘会显示兔子的位置 &lt;code&gt;\( P_n, \)&lt;/code&gt; 但此仪表盘仅保证 &lt;code&gt;\( A_n \)&lt;/code&gt; 于 &lt;code&gt;\( P_n \)&lt;/code&gt; 距离不超过1.
+- 猎人可以选择移动至 &lt;code&gt;\( B_n \)&lt;/code&gt; 且满足 &lt;code&gt;\( d(B_n,B_{n-1})=1 .\)&lt;/code&gt; 兔子知道猎人的位置.
+猎人是否有一个策略使得, 无论兔子如何移动, 无论仪表盘如何显示, 在 &lt;code&gt;\( 10^9 \)&lt;/code&gt; 轮之后, 他可以保证他与兔子的距离小于100?&lt;/p&gt;
 
-&lt;p&gt;100 passengers enter the cabin in order, the first 10 passengers are distrait and randomly choose their seat. Other passengers comes in order, they will seat at their seat if it was not taken, or randomly choose an available seat otherwise. What is the Fun that the very last passenger seat in his own seat?&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;A hunter and an invisible rabbit play a game in the Euclidean plane. The rabbit&amp;rsquo;s starting point, &lt;code&gt;$A_0,$&lt;/code&gt; and the hunter&amp;rsquo;s starting point, &lt;code&gt;$B_0$&lt;/code&gt; are the same. After &lt;code&gt;$n-1$&lt;/code&gt; rounds of the game, the rabbit is at point &lt;code&gt;$A_{n-1}$&lt;/code&gt; and the hunter is at point &lt;code&gt;$B_{n-1}.$&lt;/code&gt; In the &lt;code&gt;$n^{\text{th}}$&lt;/code&gt; round of the game, three things occur in order:
+The rabbit moves invisibly to a point $A_n$ such that the distance between &lt;code&gt;$A_{n-1}$&lt;/code&gt; and &lt;code&gt;$A_n$&lt;/code&gt; is exactly&lt;code&gt;$1.$&lt;/code&gt;
+A tracking device reports a point &lt;code&gt;$P_n$&lt;/code&gt; to the hunter. The only guarantee provided by the tracking device to the hunter is that the distance between &lt;code&gt;$P_n$&lt;/code&gt; and &lt;code&gt;$A_n$&lt;/code&gt; is at most &lt;code&gt;$1.$&lt;/code&gt;
+The hunter moves visibly to a point $B_n$ such that the distance between &lt;code&gt;$B_{n-1}$&lt;/code&gt; and &lt;code&gt;$B_n$&lt;/code&gt; is exactly &lt;code&gt;$1.$&lt;/code&gt;
+Is it always possible, no matter how the rabbit moves, and no matter what points are reported by the tracking device, for the hunter to choose her moves so that after &lt;code&gt;$10^9$&lt;/code&gt; rounds, she can ensure that the distance between her and the rabbit is at most &lt;code&gt;$100?$&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>beep </title>
+      <link>/beep/</link>
+      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/beep/</guid>
+      <description>&lt;p&gt;有n个人, 每个人有一个 小与1的正数 &lt;code&gt;\( p_i \)&lt;/code&gt;, 每个人只知道自己的数, 每一轮他们可选择发出哔哔声, 场外听众只能听到有哔声或者没有, 问他们如何才能使场外观众每轮听到哔的概率为 &lt;code&gt;\( p_i \)&lt;/code&gt; 的乘积? 假如有些人的 &lt;code&gt;\( p_i&amp;gt;1 \)&lt;/code&gt; 但乘积小与1, 是否可以使得听众每 &lt;code&gt;\( \log n \)&lt;/code&gt;  轮连续听到哔哔声的概率为乘积?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>cut-rope 快刀乱麻斩</title>
+      <link>/cut-rope/</link>
+      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/cut-rope/</guid>
+      <description>&lt;p&gt;将一段1米长的绳子随机切断,然后随机选择一段, 再次随机切断, 不停重复, 问最后剩下的那个点原来所在位置的概率分布.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>拉灯游戏</title>
+      <link>/light-on/</link>
+      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/light-on/</guid>
+      <description>&lt;p&gt;取一个联通图, 每个顶点有盏灯及一个开关, 拨动开关后,与该顶点的相邻的顶点的灯将改变状态, 问怎样的图才可从灯全灭 按至灯全亮.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8-coins-guess 合作猜硬币</title>
+      <link>/8-coins-guess/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/8-coins-guess/</guid>
+      <description>&lt;p&gt;甲乙面前各排列了8枚硬币, 硬币的正反面完全随机, 他们均只能看到自己的硬币. 游戏开始后, 甲乙各自写下将从对方那里取出给几号硬币, 如果他们均取了一枚正面朝上的硬币, 那么两人取胜, 否则记为游戏失败. 问是否有一个策略使得取胜概率超过1/4? 最佳策略的取胜概率为几?&lt;/p&gt;
 </description>
     </item>
     
