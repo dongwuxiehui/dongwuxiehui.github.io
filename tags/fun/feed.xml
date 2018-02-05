@@ -6,8 +6,48 @@
     <description>Recent content in Fun on Puzzles at the table/饭间趣题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Sep 2017 17:25:30 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 17:25:30 +0300</lastBuildDate>
     <atom:link href="/tags/fun/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>number-of-odd-digits</title>
+      <link>/number-of-odd-digits/</link>
+      <pubDate>Mon, 08 Jan 2018 17:25:30 +0300</pubDate>
+      
+      <guid>/number-of-odd-digits/</guid>
+      <description>&lt;p&gt;A question you can ask to chiese primary school students, how many odd digits are there in the product (2018\cdots 2018\times 15151414\cdots 0707), where the first factor is 2018 repeated 28 times.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>set-prob-yt</title>
+      <link>/set-prob-yt/</link>
+      <pubDate>Sun, 05 Nov 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/set-prob-yt/</guid>
+      <description>&lt;p&gt;Let (A_1 ,\ldots,A_n) be finite subsets of positive integers, such that no two of the (A_i) have same number of elements and (A_i) is not a subset of (A_j) for (i\ne j). What is the smallest possible number of elements in (\cup_i A_i)?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>primaryschool level puzzle</title>
+      <link>/primaryschool/</link>
+      <pubDate>Sat, 07 Oct 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/primaryschool/</guid>
+      <description>&lt;p&gt;是否存在一个整数,使得它的1倍,2倍,&amp;hellip;,100000 倍 的末六位不是 6个一样的数字, 即 000000, 111111, &amp;hellip; , 999999.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>rectangledots </title>
+      <link>/rectangledots/</link>
+      <pubDate>Wed, 13 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>/rectangledots/</guid>
+      <description>&lt;p&gt;Size of maximal set of points in an n X n (side length) grid such that no 4-set of it forms a rectangle with horizontal/vertical sides.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>num 鱼塘玩家多雪崩</title>
@@ -131,48 +171,6 @@ Is it always possible, no matter how the rabbit moves, and no matter what points
       
       <guid>/caps-color-guess-infinite/</guid>
       <description>&lt;p&gt;无限(可数)个囚犯列成一队, 编号为1,2,3 &amp;hellip;, 每人头顶戴一蓝色或白色帽子, 对任意n, 囚犯 n 可以看到之后的所有人 (即 n+1,n+2,&amp;hellip;) 的帽子颜色, 典狱长将依次询问每个囚犯他们帽子的颜色, 猜对即刻无罪释放, 猜错即刻执行死刑. 问囚犯们在列队前能否商量好一个策略, 使得无论如何, 只会有有限个人死亡.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>distrait-passenger 心神恍惚的乘客</title>
-      <link>/distrait-passenger/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
-      
-      <guid>/distrait-passenger/</guid>
-      <description>&lt;p&gt;100位乘客按顺序登机, 前10位登机的乘客心神恍惚, 每个人都随便选了一个无人的位置坐下. 后面的乘客则遵守规则, 希望坐到自己的座位上, 如果他们的座位已经有人, 他们则随机挑一个无人的位置坐下, 问最后一人坐在它自己的位置的概率是多大?&lt;/p&gt;
-
-&lt;p&gt;100 passengers enter the cabin in order, the first 10 passengers are distrait and randomly choose their seat. Other passengers comes in order, they will seat at their seat if it was not taken, or randomly choose an available seat otherwise. What is the Fun that the very last passenger seat in his own seat?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>elephant bananas 大象食蕉</title>
-      <link>/elephant-bananas/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
-      
-      <guid>/elephant-bananas/</guid>
-      <description>&lt;p&gt;有一只大象，每走一米要吃一只香蕉，否则就走动了。然后大象要从A走到B，之间的距离是1000米。出发点有2000只香蕉，大象最多能带着1000只香蕉赶路。大象最多能运多少只香蕉到终点？怎么运？为什么这是最多了？&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>guess 猜猜谁的大?</title>
-      <link>/guess-2number-larger/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
-      
-      <guid>/guess-2number-larger/</guid>
-      <description>&lt;p&gt;甲乙心中合自想一个数字, 丙询问并得知了乙心中的数字, 不询问甲的情况下, 丙是否有一种策略使得他猜测乙的数字是否比甲大, 猜对的概率大于1/2?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>prisoner-1-switch 囚犯与开关问题</title>
-      <link>/prisoner-1-switch/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
-      
-      <guid>/prisoner-1-switch/</guid>
-      <description>&lt;p&gt;50名囚犯被关押, 从明日开始每天将有一名随机囚犯被带到一个房间, 此房间内有一个开关, 朝向可为向上或向下, 囚犯可自由拨动开关, 如果有一天, 一名囚犯扬言: 所有囚犯都已经去过那个带开关的房间, 并且事实亦如此, 那么所有人将被释放, 如若不然, 则全体死刑. 囚犯们只在今晚有一个商量策略的机会, 是否有一个策略可以保证大家被释放?&lt;/p&gt;
 </description>
     </item>
     
