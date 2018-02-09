@@ -27,7 +27,13 @@
   MathJax.Hub.Config({
     extensions: ["tex2jax.js"],
     jax: ["input/TeX","output/HTML-CSS"],
-    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+  }
   });
 </script>
 
@@ -42,31 +48,10 @@ h2 {
   border-bottom: 2px solid #999999;
 }
 </style>
-  <script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\\[','\\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-      }
-});
-  </script>
+
   <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
-</script>
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Queue(function() {
-    
-    
-    
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += '.has-jax';
-    }
 });
 </script>
 </head>
@@ -100,9 +85,27 @@ MathJax.Hub.Config({
     <div id="main">
       
       <section class="post" itemscope itemprop="blogPost">
+    <a href="/rectangles-on-plan/" title="rectangles-on-plan " itemprop="url">
+    <h1 itemprop="name">rectangles-on-plan </h1>
+    <p itemprop="description">Given a finite number of rectangles, the edges are all parallele to the x,y axis. Such that, any two of them, we can draw a vertical line or a horizontal line that cross both of them, they are all disjoint. Prove that, we can draw a cross (that is, a vertical line and a horizontal line), that joint all the rectangles.</p>
+    <time datetime="2018-01-30 17:25:30 &#43;0300 &#43;0300" itemprop="datePublished">2018-01-30</time>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/light-in-a-cube/" title="light in a cube" itemprop="url">
+    <h1 itemprop="name">light in a cube</h1>
+    <p itemprop="description">A 3D cube we stand at one corner, all the faces are mirrors and we have a bean light, can we point at some direction and blind ourself (that means, the light bean hit the corner exactly where we standed after several reflections).</p>
+    <time datetime="2018-01-15 17:25:30 &#43;0300 &#43;0300" itemprop="datePublished">2018-01-15</time>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
     <a href="/number-of-odd-digits/" title="number-of-odd-digits" itemprop="url">
     <h1 itemprop="name">number-of-odd-digits</h1>
-    <p itemprop="description">A question you can ask to chiese primary school students, how many odd digits are there in the product (2018\cdots 2018\times 15151414\cdots 0707), where the first factor is 2018 repeated 28 times.</p>
+    <p itemprop="description">A question you can ask to chiese primary school students, how many odd digits are there in the product \(2018\cdots 2018\times 15151414\cdots 0707\), where the first factor is 2018 repeated 28 times.</p>
     <time datetime="2018-01-08 17:25:30 &#43;0300 &#43;0300" itemprop="datePublished">2018-01-08</time>
   </a>
 </section>
@@ -111,7 +114,7 @@ MathJax.Hub.Config({
       <section class="post" itemscope itemprop="blogPost">
     <a href="/set-prob-yt/" title="set-prob-yt" itemprop="url">
     <h1 itemprop="name">set-prob-yt</h1>
-    <p itemprop="description">Let (A_1 ,\ldots,A_n) be finite subsets of positive integers, such that no two of the (A_i) have same number of elements and (A_i) is not a subset of (A_j) for (i\ne j). What is the smallest possible number of elements in (\cup_i A_i)?</p>
+    <p itemprop="description">Let \(A_1 ,\ldots,A_n\) be finite subsets of positive integers, such that no two of the \(A_i\) have same number of elements and \(A_i\) is not a subset of \(A_j\) for \(i\ne j\). What is the smallest possible number of elements in \(\cup_i A_i\)?</p>
     <time datetime="2017-11-05 17:25:30 &#43;0300 &#43;0300" itemprop="datePublished">2017-11-05</time>
   </a>
 </section>
@@ -307,7 +310,7 @@ MathJax.Hub.Config({
   <p class="asidetitle">Categories/类别</p>
   <ul>
     
-    <li><a href="/categories/fun" title="fun">fun<sup>21</sup></a></li>
+    <li><a href="/categories/fun" title="fun">fun<sup>23</sup></a></li>
     
   </ul>
 </div>
@@ -320,7 +323,7 @@ MathJax.Hub.Config({
 	<p class="asidetitle">Tags/标签</p>
 		<ul class="clearfix">
       
-			<li><a href="/tags/fun" title="fun">fun<sup>21</sup></a></li>
+			<li><a href="/tags/fun" title="fun">fun<sup>23</sup></a></li>
       
 		</ul>
 </div>
@@ -334,7 +337,7 @@ MathJax.Hub.Config({
       
       
       <li class="archive-list-item">
-        <a class="archive-list-link" href="/post/#2018-01">2018-01</a><span class="archive-list-count">1</span>
+        <a class="archive-list-link" href="/post/#2018-01">2018-01</a><span class="archive-list-count">3</span>
       </li>
       
       

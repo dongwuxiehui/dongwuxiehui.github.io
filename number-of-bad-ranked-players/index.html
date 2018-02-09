@@ -27,7 +27,13 @@
   MathJax.Hub.Config({
     extensions: ["tex2jax.js"],
     jax: ["input/TeX","output/HTML-CSS"],
-    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+  }
   });
 </script>
 
@@ -42,31 +48,10 @@ h2 {
   border-bottom: 2px solid #999999;
 }
 </style>
-  <script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\\[','\\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-      }
-});
-  </script>
+
   <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
-</script>
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Queue(function() {
-    
-    
-    
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += '.has-jax';
-    }
 });
 </script>
 </head>
@@ -168,7 +153,7 @@ this.page.identifier = "/number-of-bad-ranked-players/";
 (function() { 
 var d = document, s = d.createElement('script');
 
-s.src = '//myblog31415926.disqus.com/embed.js';
+s.src = 'https://myblog31415926.disqus.com/embed.js';
 
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
@@ -197,7 +182,7 @@ s.setAttribute('data-timestamp', +new Date());
   <p class="asidetitle">Categories/类别</p>
   <ul>
     
-    <li><a href="/categories/fun" title="fun">fun<sup>21</sup></a></li>
+    <li><a href="/categories/fun" title="fun">fun<sup>23</sup></a></li>
     
   </ul>
 </div>
@@ -210,7 +195,7 @@ s.setAttribute('data-timestamp', +new Date());
 	<p class="asidetitle">Tags/标签</p>
 		<ul class="clearfix">
       
-			<li><a href="/tags/fun" title="fun">fun<sup>21</sup></a></li>
+			<li><a href="/tags/fun" title="fun">fun<sup>23</sup></a></li>
       
 		</ul>
 </div>
@@ -224,7 +209,7 @@ s.setAttribute('data-timestamp', +new Date());
       
       
       <li class="archive-list-item">
-        <a class="archive-list-link" href="/post/#2018-01">2018-01</a><span class="archive-list-count">1</span>
+        <a class="archive-list-link" href="/post/#2018-01">2018-01</a><span class="archive-list-count">3</span>
       </li>
       
       

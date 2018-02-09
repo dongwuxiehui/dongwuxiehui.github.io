@@ -27,7 +27,13 @@
   MathJax.Hub.Config({
     extensions: ["tex2jax.js"],
     jax: ["input/TeX","output/HTML-CSS"],
-    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+  }
   });
 </script>
 
@@ -42,31 +48,10 @@ h2 {
   border-bottom: 2px solid #999999;
 }
 </style>
-  <script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\\[','\\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-      }
-});
-  </script>
+
   <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
-</script>
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Queue(function() {
-    
-    
-    
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += '.has-jax';
-    }
 });
 </script>
 </head>
@@ -100,6 +85,20 @@ MathJax.Hub.Config({
     <div id="main">
       
       <h2 id="2018-01">2018-01</h2>
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/rectangles-on-plan/" title="rectangles-on-plan " itemprop="url">
+    <h2 itemprop="name">rectangles-on-plan  --- 2018-01-30</h2>
+  </a>
+</section>
+
+      
+      <section class="post" itemscope itemprop="blogPost">
+    <a href="/light-in-a-cube/" title="light in a cube" itemprop="url">
+    <h2 itemprop="name">light in a cube --- 2018-01-15</h2>
+  </a>
+</section>
+
       
       <section class="post" itemscope itemprop="blogPost">
     <a href="/number-of-odd-digits/" title="number-of-odd-digits" itemprop="url">
@@ -280,7 +279,7 @@ MathJax.Hub.Config({
   <p class="asidetitle">Categories/类别</p>
   <ul>
     
-    <li><a href="/categories/fun" title="fun">fun<sup>21</sup></a></li>
+    <li><a href="/categories/fun" title="fun">fun<sup>23</sup></a></li>
     
   </ul>
 </div>
@@ -293,7 +292,7 @@ MathJax.Hub.Config({
 	<p class="asidetitle">Tags/标签</p>
 		<ul class="clearfix">
       
-			<li><a href="/tags/fun" title="fun">fun<sup>21</sup></a></li>
+			<li><a href="/tags/fun" title="fun">fun<sup>23</sup></a></li>
       
 		</ul>
 </div>
@@ -307,7 +306,7 @@ MathJax.Hub.Config({
       
       
       <li class="archive-list-item">
-        <a class="archive-list-link" href="/post/#2018-01">2018-01</a><span class="archive-list-count">1</span>
+        <a class="archive-list-link" href="/post/#2018-01">2018-01</a><span class="archive-list-count">3</span>
       </li>
       
       

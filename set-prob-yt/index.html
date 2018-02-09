@@ -5,10 +5,10 @@
   <title>set-prob-yt - Puzzles at the table/饭间趣题</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="Let (A_1 ,\ldots,A_n) be finite subsets of positive integers, such that no two of the (A_i) have same number of elements and (A_i) is not a subset of (A_j) for (i\ne j). What is the smallest possible number of elements in (\cup_i A_i)?">
+  <meta name="description" content="Let \(A_1 ,\ldots,A_n\) be finite subsets of positive integers, such that no two of the \(A_i\) have same number of elements and \(A_i\) is not a subset of \(A_j\) for \(i\ne j\). What is the smallest possible number of elements in \(\cup_i A_i\)?">
   <meta name="author" content="动物协会">
   <meta itemprop="name" content="set-prob-yt - Puzzles at the table/饭间趣题">
-  <meta itemprop="description" content="Let (A_1 ,\ldots,A_n) be finite subsets of positive integers, such that no two of the (A_i) have same number of elements and (A_i) is not a subset of (A_j) for (i\ne j). What is the smallest possible number of elements in (\cup_i A_i)?">
+  <meta itemprop="description" content="Let \(A_1 ,\ldots,A_n\) be finite subsets of positive integers, such that no two of the \(A_i\) have same number of elements and \(A_i\) is not a subset of \(A_j\) for \(i\ne j\). What is the smallest possible number of elements in \(\cup_i A_i\)?">
   <meta itemprop="image" content="/img/author.jpg">
   
   
@@ -27,7 +27,13 @@
   MathJax.Hub.Config({
     extensions: ["tex2jax.js"],
     jax: ["input/TeX","output/HTML-CSS"],
-    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+  }
   });
 </script>
 
@@ -42,31 +48,10 @@ h2 {
   border-bottom: 2px solid #999999;
 }
 </style>
-  <script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\\[','\\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-      }
-});
-  </script>
+
   <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
-</script>
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Queue(function() {
-    
-    
-    
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += '.has-jax';
-    }
 });
 </script>
 </head>
@@ -119,7 +104,7 @@ MathJax.Hub.Config({
 
 		
     
-    <p>Let (A_1 ,\ldots,A_n) be finite subsets of positive integers, such that no two of the (A_i) have same number of elements and (A_i) is not a subset of (A_j) for (i\ne j). What is the smallest possible number of elements in (\cup_i A_i)?</p>
+    <p>Let <code>\(A_1 ,\ldots,A_n\)</code> be finite subsets of positive integers, such that no two of the <code>\(A_i\)</code> have same number of elements and <code>\(A_i\)</code> is not a subset of <code>\(A_j\)</code> for <code>\(i\ne j\)</code>. What is the smallest possible number of elements in <code>\(\cup_i A_i\)</code>?</p>
 
 	</div>
   <footer class="article-footer clearfix">
@@ -168,7 +153,7 @@ this.page.identifier = "/set-prob-yt/";
 (function() { 
 var d = document, s = d.createElement('script');
 
-s.src = '//myblog31415926.disqus.com/embed.js';
+s.src = 'https://myblog31415926.disqus.com/embed.js';
 
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
@@ -197,7 +182,7 @@ s.setAttribute('data-timestamp', +new Date());
   <p class="asidetitle">Categories/类别</p>
   <ul>
     
-    <li><a href="/categories/fun" title="fun">fun<sup>21</sup></a></li>
+    <li><a href="/categories/fun" title="fun">fun<sup>23</sup></a></li>
     
   </ul>
 </div>
@@ -210,7 +195,7 @@ s.setAttribute('data-timestamp', +new Date());
 	<p class="asidetitle">Tags/标签</p>
 		<ul class="clearfix">
       
-			<li><a href="/tags/fun" title="fun">fun<sup>21</sup></a></li>
+			<li><a href="/tags/fun" title="fun">fun<sup>23</sup></a></li>
       
 		</ul>
 </div>
@@ -224,7 +209,7 @@ s.setAttribute('data-timestamp', +new Date());
       
       
       <li class="archive-list-item">
-        <a class="archive-list-link" href="/post/#2018-01">2018-01</a><span class="archive-list-count">1</span>
+        <a class="archive-list-link" href="/post/#2018-01">2018-01</a><span class="archive-list-count">3</span>
       </li>
       
       
