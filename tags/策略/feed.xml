@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>策略 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/tags/%E7%AD%96%E7%95%A5/</link>
+    <description>Recent content in 策略 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Feb 2018 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/tags/%E7%AD%96%E7%95%A5/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>动物协会</title>
+      <link>https://dongwuxiehui.github.io/knights-and-knaves/</link>
+      <pubDate>Sat, 10 Feb 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/knights-and-knaves/</guid>
+      <description>&lt;p&gt;你在路上一个分叉口， 你知道只有一条路通往动物协会， 但不知道是两条中的哪一条。 三个动物协会会员在附近，分别是哈哈狗，嘻嘻熊和浮夸海豹， 你问它们应该怎么走， 它们分别说：&lt;/p&gt;
+
+&lt;p&gt;哈哈狗：走左边。
+嘻嘻熊：走右边。
+浮夸海豹：如果我们之中有2个诚实会员，那你应该听哈哈狗同志的话。&lt;/p&gt;
+
+&lt;p&gt;已知动物协会的成员中诚实会员只说真话，浮夸会员只说假话， 问你应该走哪条路？&lt;/p&gt;
+
+&lt;p&gt;You come to a fork in the road. You know that exactly one of the paths leads to the city, but you do not know which one. You see three natives, named Alan, Beth and Carl, standing nearby, and you ask them which path you should take. They make the following statements.&lt;/p&gt;
+
+&lt;p&gt;Alan: You should take the left fork.
+Beth: No! You should take the right fork.
+Carl: If there are at least two knights among us, then you should listen to Alan.&lt;/p&gt;
+
+&lt;p&gt;Which path will take you to the city?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>囚犯猜号码</title>
+      <link>https://dongwuxiehui.github.io/prisoner-box-label/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/prisoner-box-label/</guid>
+      <description>&lt;p&gt;100个编号的犯人, 一个小黑屋. 小黑屋里面有100个编号分别为1到100的箱子, 100个号码牌打乱分放在箱子里,每个箱子里一个. 每个犯人可以进一次小黑屋看50个箱子里的号码. 有人进小黑屋后所有人都不能交流.&lt;/p&gt;
+
+&lt;p&gt;犯人们的目标是找到哪个箱子里有自己的号码. 如果所有犯人都找对了自己号码的箱子则全部释放, 否则全部杀头, 找一个犯人的策略使得生存机会比较大.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>rabbit-hopping-boxes 兔兔跳箱子</title>
+      <link>https://dongwuxiehui.github.io/rabbit-hopping-boxes/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/rabbit-hopping-boxes/</guid>
+      <description>&lt;p&gt;有编号为 1至5的箱子,有一只兔子藏于其中一个箱子里, 每次玩家可打开其中一个箱子, 如果没抓到兔子, 那么再打开下个箱子前, 兔子会跑到与它当时所在箱子相邻的一个箱子里, 问最快可保证于几步内抓到兔子.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>合作猜硬币</title>
+      <link>https://dongwuxiehui.github.io/8-coins-guess/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/8-coins-guess/</guid>
+      <description>&lt;p&gt;甲乙面前各排列了8枚硬币, 硬币的正反面完全随机, 他们均只能看到自己的硬币. 游戏开始后, 甲乙各自写下将从对方那里取出给几号硬币, 如果他们均取了一枚正面朝上的硬币, 那么两人取胜, 否则记为游戏失败. 问是否有一个策略使得取胜概率超过1/4? 最佳策略的取胜概率为几?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>囚犯与开关问题</title>
+      <link>https://dongwuxiehui.github.io/prisoner-1-switch/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/prisoner-1-switch/</guid>
+      <description>&lt;p&gt;50名囚犯被关押, 从明日开始每天将有一名随机囚犯被带到一个房间, 此房间内有一个开关, 朝向可为向上或向下, 囚犯可自由拨动开关, 如果有一天, 一名囚犯扬言: 所有囚犯都已经去过那个带开关的房间, 并且事实亦如此, 那么所有人将被释放, 如若不然, 则全体死刑. 囚犯们只在今晚有一个商量策略的机会, 是否有一个策略可以保证大家被释放?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>大象食蕉</title>
+      <link>https://dongwuxiehui.github.io/elephant-bananas/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/elephant-bananas/</guid>
+      <description>&lt;p&gt;有一只大象，每走一米要吃一只香蕉，否则就走动了。然后大象要从A走到B，之间的距离是1000米。出发点有2000只香蕉，大象最多能带着1000只香蕉赶路。大象最多能运多少只香蕉到终点？怎么运？为什么这是最多了？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>无限猜帽子颜色问题</title>
+      <link>https://dongwuxiehui.github.io/caps-color-guess-infinite/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/caps-color-guess-infinite/</guid>
+      <description>&lt;p&gt;无限(可数)个囚犯列成一队, 编号为1,2,3 &amp;hellip;, 每人头顶戴一蓝色或白色帽子, 对任意n, 囚犯 n 可以看到之后的所有人 (即 n+1,n+2,&amp;hellip;) 的帽子颜色, 典狱长将依次询问每个囚犯他们帽子的颜色, 猜对即刻无罪释放, 猜错即刻执行死刑. 问囚犯们在列队前能否商量好一个策略, 使得无论如何, 只会有有限个人死亡.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>猜猜谁的数字大?</title>
+      <link>https://dongwuxiehui.github.io/guess-2number-larger/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/guess-2number-larger/</guid>
+      <description>&lt;p&gt;甲乙心中合自想一个数字, 丙询问并得知了乙心中的数字, 不询问甲的情况下, 丙是否有一种策略使得他猜测乙的数字是否比甲大, 猜对的概率大于1/2?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

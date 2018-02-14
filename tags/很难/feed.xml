@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>很难 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/tags/%E5%BE%88%E9%9A%BE/</link>
+    <description>Recent content in 很难 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Sep 2017 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/tags/%E5%BE%88%E9%9A%BE/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>奇平方数之和</title>
+      <link>https://dongwuxiehui.github.io/sum-odd-squares/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/sum-odd-squares/</guid>
+      <description>&lt;p&gt;问是否任意整数可以有无穷多种方法写成
+$$\pm 1^2\pm 3^2\pm \cdots \pm (2k+1)^2?$$&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

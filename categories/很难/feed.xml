@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>很难 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/categories/%E5%BE%88%E9%9A%BE/</link>
+    <description>Recent content in 很难 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Jul 2017 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/categories/%E5%BE%88%E9%9A%BE/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>无限猜帽子颜色问题</title>
+      <link>https://dongwuxiehui.github.io/caps-color-guess-infinite/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/caps-color-guess-infinite/</guid>
+      <description>&lt;p&gt;无限(可数)个囚犯列成一队, 编号为1,2,3 &amp;hellip;, 每人头顶戴一蓝色或白色帽子, 对任意n, 囚犯 n 可以看到之后的所有人 (即 n+1,n+2,&amp;hellip;) 的帽子颜色, 典狱长将依次询问每个囚犯他们帽子的颜色, 猜对即刻无罪释放, 猜错即刻执行死刑. 问囚犯们在列队前能否商量好一个策略, 使得无论如何, 只会有有限个人死亡.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

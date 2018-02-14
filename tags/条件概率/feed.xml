@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>条件概率 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/tags/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87/</link>
+    <description>Recent content in 条件概率 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Sep 2017 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/tags/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>投个666</title>
+      <link>https://dongwuxiehui.github.io/toss-til-6/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/toss-til-6/</guid>
+      <description>&lt;p&gt;投一枚色子, 直到投到6停止, 在假定投到的数字全是偶数的前提下, 求平均需要投多少次?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

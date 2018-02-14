@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>最佳排列 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/tags/%E6%9C%80%E4%BD%B3%E6%8E%92%E5%88%97/</link>
+    <description>Recent content in 最佳排列 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Nov 2017 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/tags/%E6%9C%80%E4%BD%B3%E6%8E%92%E5%88%97/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>最小并集问题</title>
+      <link>https://dongwuxiehui.github.io/set-prob-yt/</link>
+      <pubDate>Sun, 05 Nov 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/set-prob-yt/</guid>
+      <description>&lt;p&gt;令A_1, &amp;hellip;, A_n 爲元素個數互不相等的n個正整數集且滿足對任意的i，j，A_i \notsubset A_j。 求它們幷集的元素個數的最小值。&lt;/p&gt;
+
+&lt;p&gt;Let &lt;code&gt;\(A_1 ,\ldots,A_n\)&lt;/code&gt; be finite subsets of positive integers, such that no two of the &lt;code&gt;\(A_i\)&lt;/code&gt; have same number of elements and &lt;code&gt;\(A_i\)&lt;/code&gt; is not a subset of &lt;code&gt;\(A_j\)&lt;/code&gt; for &lt;code&gt;\(i\ne j\)&lt;/code&gt;. What is the smallest possible number of elements in &lt;code&gt;\(\cup_i A_i\)&lt;/code&gt;?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>长方形？不存在的，点阵</title>
+      <link>https://dongwuxiehui.github.io/rectangledots/</link>
+      <pubDate>Wed, 13 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/rectangledots/</guid>
+      <description>&lt;p&gt;在一個 n x n 的點陣裏最多能取出多少個點使得任意四點都不組成垂直/水平放置的長方形。&lt;/p&gt;
+
+&lt;p&gt;Size of maximal set of points in an n X n (side length) grid such that no 4-set of it forms a rectangle with horizontal/vertical sides.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>鱼塘玩家多雪崩</title>
+      <link>https://dongwuxiehui.github.io/number-of-bad-ranked-players/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/number-of-bad-ranked-players/</guid>
+      <description>&lt;p&gt;某次DOTA2赛事, 观众恰好坐成了一个 2014 X 2014 的方阵, 每个观众都有一个整数值的天梯分数 (没有的按0计算), 他们之间会相互比较自己的分数. 对于某个人, 如果前后左右相邻的人当中, 有不少于2人分数不低于他, 那么我们称这个人是 &amp;ldquo;雪崩的&amp;rdquo;, 求 &amp;ldquo;雪崩的&amp;rdquo; 人数最小值.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

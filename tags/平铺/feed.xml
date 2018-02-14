@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>平铺 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/tags/%E5%B9%B3%E9%93%BA/</link>
+    <description>Recent content in 平铺 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 15 Jan 2018 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/tags/%E5%B9%B3%E9%93%BA/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>激光瞎了吾之犬瞳</title>
+      <link>https://dongwuxiehui.github.io/light-in-a-cube/</link>
+      <pubDate>Mon, 15 Jan 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/light-in-a-cube/</guid>
+      <description>&lt;p&gt;一个正方体内部全是镜子，史勿心同学站在一个角上，用一束激光照向某个方向，问他是否能够通过反射成功闪瞎自己的狗眼？&lt;/p&gt;
+
+&lt;p&gt;A 3D cube we stand at one corner, all the faces are mirrors and we have a bean light, can we point at some direction and blind ourself (that means, the light bean hit the corner exactly where we standed after several reflections).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,8 +3,13 @@
   
   <url>
     <loc>https://dongwuxiehui.github.io/</loc>
-    <lastmod>2018-01-30T17:25:30+03:00</lastmod>
+    <lastmod>2018-02-10T17:25:30+03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dongwuxiehui.github.io/knights-and-knaves/</loc>
+    <lastmod>2018-02-10T17:25:30+03:00</lastmod>
   </url>
   
   <url>
@@ -38,11 +43,6 @@
   </url>
   
   <url>
-    <loc>https://dongwuxiehui.github.io/number-of-bad-ranked-players/</loc>
-    <lastmod>2017-09-09T17:25:30+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dongwuxiehui.github.io/prisoner-box-label/</loc>
     <lastmod>2017-09-09T17:25:30+03:00</lastmod>
   </url>
@@ -54,6 +54,11 @@
   
   <url>
     <loc>https://dongwuxiehui.github.io/toss-til-6/</loc>
+    <lastmod>2017-09-09T17:25:30+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongwuxiehui.github.io/number-of-bad-ranked-players/</loc>
     <lastmod>2017-09-09T17:25:30+03:00</lastmod>
   </url>
   
@@ -78,17 +83,7 @@
   </url>
   
   <url>
-    <loc>https://dongwuxiehui.github.io/8-coins-guess/</loc>
-    <lastmod>2017-07-31T17:25:30+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dongwuxiehui.github.io/akq-game/</loc>
-    <lastmod>2017-07-31T17:25:30+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dongwuxiehui.github.io/caps-color-guess-infinite/</loc>
     <lastmod>2017-07-31T17:25:30+03:00</lastmod>
   </url>
   
@@ -98,12 +93,12 @@
   </url>
   
   <url>
-    <loc>https://dongwuxiehui.github.io/elephant-bananas/</loc>
+    <loc>https://dongwuxiehui.github.io/rabbit-hopping-boxes/</loc>
     <lastmod>2017-07-31T17:25:30+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dongwuxiehui.github.io/guess-2number-larger/</loc>
+    <loc>https://dongwuxiehui.github.io/8-coins-guess/</loc>
     <lastmod>2017-07-31T17:25:30+03:00</lastmod>
   </url>
   
@@ -113,12 +108,22 @@
   </url>
   
   <url>
-    <loc>https://dongwuxiehui.github.io/rabbit-hopping-boxes/</loc>
+    <loc>https://dongwuxiehui.github.io/elephant-bananas/</loc>
     <lastmod>2017-07-31T17:25:30+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://dongwuxiehui.github.io/sub-arimethic-seq/</loc>
+    <lastmod>2017-07-31T17:25:30+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongwuxiehui.github.io/caps-color-guess-infinite/</loc>
+    <lastmod>2017-07-31T17:25:30+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongwuxiehui.github.io/guess-2number-larger/</loc>
     <lastmod>2017-07-31T17:25:30+03:00</lastmod>
   </url>
   

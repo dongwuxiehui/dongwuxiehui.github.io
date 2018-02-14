@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>逻辑 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/categories/%E9%80%BB%E8%BE%91/</link>
+    <description>Recent content in 逻辑 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Feb 2018 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/categories/%E9%80%BB%E8%BE%91/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>动物协会</title>
+      <link>https://dongwuxiehui.github.io/knights-and-knaves/</link>
+      <pubDate>Sat, 10 Feb 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/knights-and-knaves/</guid>
+      <description>&lt;p&gt;你在路上一个分叉口， 你知道只有一条路通往动物协会， 但不知道是两条中的哪一条。 三个动物协会会员在附近，分别是哈哈狗，嘻嘻熊和浮夸海豹， 你问它们应该怎么走， 它们分别说：&lt;/p&gt;
+
+&lt;p&gt;哈哈狗：走左边。
+嘻嘻熊：走右边。
+浮夸海豹：如果我们之中有2个诚实会员，那你应该听哈哈狗同志的话。&lt;/p&gt;
+
+&lt;p&gt;已知动物协会的成员中诚实会员只说真话，浮夸会员只说假话， 问你应该走哪条路？&lt;/p&gt;
+
+&lt;p&gt;You come to a fork in the road. You know that exactly one of the paths leads to the city, but you do not know which one. You see three natives, named Alan, Beth and Carl, standing nearby, and you ask them which path you should take. They make the following statements.&lt;/p&gt;
+
+&lt;p&gt;Alan: You should take the left fork.
+Beth: No! You should take the right fork.
+Carl: If there are at least two knights among us, then you should listen to Alan.&lt;/p&gt;
+
+&lt;p&gt;Which path will take you to the city?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

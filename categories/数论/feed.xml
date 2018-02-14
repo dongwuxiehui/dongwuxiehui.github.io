@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数论 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/categories/%E6%95%B0%E8%AE%BA/</link>
+    <description>Recent content in 数论 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Jan 2018 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/categories/%E6%95%B0%E8%AE%BA/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>小学数学太难了系列2</title>
+      <link>https://dongwuxiehui.github.io/number-of-odd-digits/</link>
+      <pubDate>Mon, 08 Jan 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/number-of-odd-digits/</guid>
+      <description>&lt;p&gt;在乘积&lt;code&gt;\(2018\cdots 2018\times 15151414\cdots 0707\)&lt;/code&gt;的十进制表示中，共有多少个奇数？&lt;/p&gt;
+
+&lt;p&gt;A question you can ask to chiese primary school students, how many odd digits are there in the product &lt;code&gt;\(2018\cdots 2018\times 15151414\cdots 0707\)&lt;/code&gt;, where the first factor is 2018 repeated 28 times.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>小学数学太难了系列1</title>
+      <link>https://dongwuxiehui.github.io/primaryschool/</link>
+      <pubDate>Sat, 07 Oct 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/primaryschool/</guid>
+      <description>&lt;p&gt;是否存在一个整数,使得它的1倍,2倍,&amp;hellip;,500000 倍 的末六位不是 6个一样的数字, 即 000000, 111111, &amp;hellip; , 999999.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>奇平方数之和</title>
+      <link>https://dongwuxiehui.github.io/sum-odd-squares/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/sum-odd-squares/</guid>
+      <description>&lt;p&gt;问是否任意整数可以有无穷多种方法写成
+$$\pm 1^2\pm 3^2\pm \cdots \pm (2k+1)^2?$$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>子等差数列</title>
+      <link>https://dongwuxiehui.github.io/sub-arimethic-seq/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/sub-arimethic-seq/</guid>
+      <description>&lt;p&gt;数列 $a_n$ 定义如下: $a&lt;em&gt;1=1000000$, $a&lt;/em&gt;{n+1}=n [a_n/n]+n$, 问此数列是否有一个无穷子数列构成一个等差数列.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

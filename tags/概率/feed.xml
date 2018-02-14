@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>概率 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/tags/%E6%A6%82%E7%8E%87/</link>
+    <description>Recent content in 概率 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 14 Aug 2017 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/tags/%E6%A6%82%E7%8E%87/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>beep </title>
+      <link>https://dongwuxiehui.github.io/beep/</link>
+      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/beep/</guid>
+      <description>&lt;p&gt;有n个人, 每个人有一个 小与1的正数 &lt;code&gt;\( p_i \)&lt;/code&gt;, 每个人只知道自己的数, 每一轮他们可选择发出哔哔声, 场外听众只能听到有哔声或者没有, 问他们如何才能使场外观众每轮听到哔的概率为 &lt;code&gt;\( p_i \)&lt;/code&gt; 的乘积? 假如有些人的 &lt;code&gt;\( p_i&amp;gt;1 \)&lt;/code&gt; 但乘积小与1, 是否可以使得听众每 &lt;code&gt;\( \log n \)&lt;/code&gt;  轮连续听到哔哔声的概率为乘积?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>快刀乱麻斩</title>
+      <link>https://dongwuxiehui.github.io/cut-rope/</link>
+      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/cut-rope/</guid>
+      <description>&lt;p&gt;将一段1米长的绳子随机切断,然后随机选择一段, 再次随机切断, 不停重复, 问最后剩下的那个点原来所在位置的概率分布.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>distrait-passenger 心神恍惚的乘客</title>
+      <link>https://dongwuxiehui.github.io/distrait-passenger/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/distrait-passenger/</guid>
+      <description>&lt;p&gt;100位乘客按顺序登机, 前10位登机的乘客心神恍惚, 每个人都随便选了一个无人的位置坐下. 后面的乘客则遵守规则, 希望坐到自己的座位上, 如果他们的座位已经有人, 他们则随机挑一个无人的位置坐下, 问最后一人坐在它自己的位置的概率是多大?&lt;/p&gt;
+
+&lt;p&gt;100 passengers enter the cabin in order, the first 10 passengers are distrait and randomly choose their seat. Other passengers comes in order, they will seat at their seat if it was not taken, or randomly choose an available seat otherwise. What is the Fun that the very last passenger seat in his own seat?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

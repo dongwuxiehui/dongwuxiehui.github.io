@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博弈论 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/categories/%E5%8D%9A%E5%BC%88%E8%AE%BA/</link>
+    <description>Recent content in 博弈论 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 05 Sep 2017 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/categories/%E5%8D%9A%E5%BC%88%E8%AE%BA/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>rabbit-hunter 兔子与猎人 </title>
+      <link>https://dongwuxiehui.github.io/rabbit-hunter/</link>
+      <pubDate>Tue, 05 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/rabbit-hunter/</guid>
+      <description>&lt;p&gt;一个兔子和一个猎人在平面上玩一个游戏, 兔子的出发点 &lt;code&gt;\( A_0 \)&lt;/code&gt; 和 猎人的出发点 &lt;code&gt;\( B_0 \)&lt;/code&gt; 相同. &lt;code&gt;\( n-1 \)&lt;/code&gt; 轮游戏后, 兔子位于 &lt;code&gt;\( A_{n-1} \)&lt;/code&gt; 而猎人位于 &lt;code&gt;\( B_{n-1} \)&lt;/code&gt; 处. 在第 &lt;code&gt;\( n \)&lt;/code&gt;  轮, 规则如下
+- 兔子可以选择移动至一个地点 &lt;code&gt;\( A_n, \)&lt;/code&gt; 此位置满足 &lt;code&gt;\( d(A_{n},A_{n-1})=1, \)&lt;/code&gt; 即两点局距为1. 且猎人不知道兔子的确切位置.
+- 猎人年久失修的仪表盘会显示兔子的位置 &lt;code&gt;\( P_n, \)&lt;/code&gt; 但此仪表盘仅保证 &lt;code&gt;\( A_n \)&lt;/code&gt; 于 &lt;code&gt;\( P_n \)&lt;/code&gt; 距离不超过1.
+- 猎人可以选择移动至 &lt;code&gt;\( B_n \)&lt;/code&gt; 且满足 &lt;code&gt;\( d(B_n,B_{n-1})=1 .\)&lt;/code&gt; 兔子知道猎人的位置.
+猎人是否有一个策略使得, 无论兔子如何移动, 无论仪表盘如何显示, 在 &lt;code&gt;\( 10^9 \)&lt;/code&gt; 轮之后, 他可以保证他与兔子的距离小于100?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A hunter and an invisible rabbit play a game in the Euclidean plane. The rabbit&amp;rsquo;s starting point, &lt;code&gt;$A_0,$&lt;/code&gt; and the hunter&amp;rsquo;s starting point, &lt;code&gt;$B_0$&lt;/code&gt; are the same. After &lt;code&gt;$n-1$&lt;/code&gt; rounds of the game, the rabbit is at point &lt;code&gt;$A_{n-1}$&lt;/code&gt; and the hunter is at point &lt;code&gt;$B_{n-1}.$&lt;/code&gt; In the &lt;code&gt;$n^{\text{th}}$&lt;/code&gt; round of the game, three things occur in order:
+The rabbit moves invisibly to a point $A_n$ such that the distance between &lt;code&gt;$A_{n-1}$&lt;/code&gt; and &lt;code&gt;$A_n$&lt;/code&gt; is exactly&lt;code&gt;$1.$&lt;/code&gt;
+A tracking device reports a point &lt;code&gt;$P_n$&lt;/code&gt; to the hunter. The only guarantee provided by the tracking device to the hunter is that the distance between &lt;code&gt;$P_n$&lt;/code&gt; and &lt;code&gt;$A_n$&lt;/code&gt; is at most &lt;code&gt;$1.$&lt;/code&gt;
+The hunter moves visibly to a point $B_n$ such that the distance between &lt;code&gt;$B_{n-1}$&lt;/code&gt; and &lt;code&gt;$B_n$&lt;/code&gt; is exactly &lt;code&gt;$1.$&lt;/code&gt;
+Is it always possible, no matter how the rabbit moves, and no matter what points are reported by the tracking device, for the hunter to choose her moves so that after &lt;code&gt;$10^9$&lt;/code&gt; rounds, she can ensure that the distance between her and the rabbit is at most &lt;code&gt;$100?$&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>akq-game AKQ 游戏</title>
+      <link>https://dongwuxiehui.github.io/akq-game/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/akq-game/</guid>
+      <description>&lt;p&gt;荷官将三张牌 (分别为AKQ)洗匀并给甲乙各发一张, 甲乙均已注1元, 并还有1元可跟注, 由甲开始喊注, 甲不加注. 在此情况下, 问乙的最佳策略.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>囚犯与开关问题</title>
+      <link>https://dongwuxiehui.github.io/prisoner-1-switch/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/prisoner-1-switch/</guid>
+      <description>&lt;p&gt;50名囚犯被关押, 从明日开始每天将有一名随机囚犯被带到一个房间, 此房间内有一个开关, 朝向可为向上或向下, 囚犯可自由拨动开关, 如果有一天, 一名囚犯扬言: 所有囚犯都已经去过那个带开关的房间, 并且事实亦如此, 那么所有人将被释放, 如若不然, 则全体死刑. 囚犯们只在今晚有一个商量策略的机会, 是否有一个策略可以保证大家被释放?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>猜猜谁的数字大?</title>
+      <link>https://dongwuxiehui.github.io/guess-2number-larger/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/guess-2number-larger/</guid>
+      <description>&lt;p&gt;甲乙心中合自想一个数字, 丙询问并得知了乙心中的数字, 不询问甲的情况下, 丙是否有一种策略使得他猜测乙的数字是否比甲大, 猜对的概率大于1/2?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

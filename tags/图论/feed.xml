@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图论 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/tags/%E5%9B%BE%E8%AE%BA/</link>
+    <description>Recent content in 图论 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 Jan 2018 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/tags/%E5%9B%BE%E8%AE%BA/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>十字绞杀长方形</title>
+      <link>https://dongwuxiehui.github.io/rectangles-on-plan/</link>
+      <pubDate>Tue, 30 Jan 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/rectangles-on-plan/</guid>
+      <description>&lt;p&gt;在平面上有有限个长方形， 它们的边都与XY轴平行， 而且， 任意两个长方形，我们都能找出一条水平线或者垂直线同时穿过这2个长方形， 已知这些长方形互不相交， 证明： 可以画一个十字（一条水平线和一条垂直线）， 使得这个十字穿过所有的长方形。&lt;/p&gt;
+
+&lt;p&gt;Given a finite number of rectangles, the edges are all parallele to the x,y axis. Such that, any two of them, we can draw a vertical line or a horizontal line that cross both of them, they are all disjoint. Prove that, we can draw a cross (that is, a vertical line and a horizontal line), that joint all the rectangles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>拉灯游戏</title>
+      <link>https://dongwuxiehui.github.io/light-on/</link>
+      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/light-on/</guid>
+      <description>&lt;p&gt;取一个联通图, 每个顶点有盏灯及一个开关, 拨动开关后,与该顶点的相邻的顶点的灯将改变状态, 问怎样的图才可从灯全灭 按至灯全亮.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

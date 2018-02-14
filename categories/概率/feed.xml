@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>概率 on Puzzles at the table/趣题拌饭</title>
+    <link>https://dongwuxiehui.github.io/categories/%E6%A6%82%E7%8E%87/</link>
+    <description>Recent content in 概率 on Puzzles at the table/趣题拌饭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 09 Sep 2017 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/categories/%E6%A6%82%E7%8E%87/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>囚犯猜号码</title>
+      <link>https://dongwuxiehui.github.io/prisoner-box-label/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/prisoner-box-label/</guid>
+      <description>&lt;p&gt;100个编号的犯人, 一个小黑屋. 小黑屋里面有100个编号分别为1到100的箱子, 100个号码牌打乱分放在箱子里,每个箱子里一个. 每个犯人可以进一次小黑屋看50个箱子里的号码. 有人进小黑屋后所有人都不能交流.&lt;/p&gt;
+
+&lt;p&gt;犯人们的目标是找到哪个箱子里有自己的号码. 如果所有犯人都找对了自己号码的箱子则全部释放, 否则全部杀头, 找一个犯人的策略使得生存机会比较大.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>投个666</title>
+      <link>https://dongwuxiehui.github.io/toss-til-6/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/toss-til-6/</guid>
+      <description>&lt;p&gt;投一枚色子, 直到投到6停止, 在假定投到的数字全是偶数的前提下, 求平均需要投多少次?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>快刀乱麻斩</title>
+      <link>https://dongwuxiehui.github.io/cut-rope/</link>
+      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/cut-rope/</guid>
+      <description>&lt;p&gt;将一段1米长的绳子随机切断,然后随机选择一段, 再次随机切断, 不停重复, 问最后剩下的那个点原来所在位置的概率分布.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>rabbit-hopping-boxes 兔兔跳箱子</title>
+      <link>https://dongwuxiehui.github.io/rabbit-hopping-boxes/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/rabbit-hopping-boxes/</guid>
+      <description>&lt;p&gt;有编号为 1至5的箱子,有一只兔子藏于其中一个箱子里, 每次玩家可打开其中一个箱子, 如果没抓到兔子, 那么再打开下个箱子前, 兔子会跑到与它当时所在箱子相邻的一个箱子里, 问最快可保证于几步内抓到兔子.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>合作猜硬币</title>
+      <link>https://dongwuxiehui.github.io/8-coins-guess/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/8-coins-guess/</guid>
+      <description>&lt;p&gt;甲乙面前各排列了8枚硬币, 硬币的正反面完全随机, 他们均只能看到自己的硬币. 游戏开始后, 甲乙各自写下将从对方那里取出给几号硬币, 如果他们均取了一枚正面朝上的硬币, 那么两人取胜, 否则记为游戏失败. 问是否有一个策略使得取胜概率超过1/4? 最佳策略的取胜概率为几?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

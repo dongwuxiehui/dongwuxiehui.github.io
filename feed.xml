@@ -6,81 +6,105 @@
     <description>Recent content on Puzzles at the table/趣题拌饭</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jan 2018 17:25:30 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 17:25:30 +0300</lastBuildDate>
     <atom:link href="https://dongwuxiehui.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>rectangles-on-plan </title>
+      <title>动物协会</title>
+      <link>https://dongwuxiehui.github.io/knights-and-knaves/</link>
+      <pubDate>Sat, 10 Feb 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/knights-and-knaves/</guid>
+      <description>&lt;p&gt;你在路上一个分叉口， 你知道只有一条路通往动物协会， 但不知道是两条中的哪一条。 三个动物协会会员在附近，分别是哈哈狗，嘻嘻熊和浮夸海豹， 你问它们应该怎么走， 它们分别说：&lt;/p&gt;
+
+&lt;p&gt;哈哈狗：走左边。
+嘻嘻熊：走右边。
+浮夸海豹：如果我们之中有2个诚实会员，那你应该听哈哈狗同志的话。&lt;/p&gt;
+
+&lt;p&gt;已知动物协会的成员中诚实会员只说真话，浮夸会员只说假话， 问你应该走哪条路？&lt;/p&gt;
+
+&lt;p&gt;You come to a fork in the road. You know that exactly one of the paths leads to the city, but you do not know which one. You see three natives, named Alan, Beth and Carl, standing nearby, and you ask them which path you should take. They make the following statements.&lt;/p&gt;
+
+&lt;p&gt;Alan: You should take the left fork.
+Beth: No! You should take the right fork.
+Carl: If there are at least two knights among us, then you should listen to Alan.&lt;/p&gt;
+
+&lt;p&gt;Which path will take you to the city?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>十字绞杀长方形</title>
       <link>https://dongwuxiehui.github.io/rectangles-on-plan/</link>
       <pubDate>Tue, 30 Jan 2018 17:25:30 +0300</pubDate>
       
       <guid>https://dongwuxiehui.github.io/rectangles-on-plan/</guid>
-      <description>&lt;p&gt;Given a finite number of rectangles, the edges are all parallele to the x,y axis. Such that, any two of them, we can draw a vertical line or a horizontal line that cross both of them, they are all disjoint. Prove that, we can draw a cross (that is, a vertical line and a horizontal line), that joint all the rectangles.&lt;/p&gt;
+      <description>&lt;p&gt;在平面上有有限个长方形， 它们的边都与XY轴平行， 而且， 任意两个长方形，我们都能找出一条水平线或者垂直线同时穿过这2个长方形， 已知这些长方形互不相交， 证明： 可以画一个十字（一条水平线和一条垂直线）， 使得这个十字穿过所有的长方形。&lt;/p&gt;
+
+&lt;p&gt;Given a finite number of rectangles, the edges are all parallele to the x,y axis. Such that, any two of them, we can draw a vertical line or a horizontal line that cross both of them, they are all disjoint. Prove that, we can draw a cross (that is, a vertical line and a horizontal line), that joint all the rectangles.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>light in a cube</title>
+      <title>激光瞎了吾之犬瞳</title>
       <link>https://dongwuxiehui.github.io/light-in-a-cube/</link>
       <pubDate>Mon, 15 Jan 2018 17:25:30 +0300</pubDate>
       
       <guid>https://dongwuxiehui.github.io/light-in-a-cube/</guid>
-      <description>&lt;p&gt;A 3D cube we stand at one corner, all the faces are mirrors and we have a bean light, can we point at some direction and blind ourself (that means, the light bean hit the corner exactly where we standed after several reflections).&lt;/p&gt;
+      <description>&lt;p&gt;一个正方体内部全是镜子，史勿心同学站在一个角上，用一束激光照向某个方向，问他是否能够通过反射成功闪瞎自己的狗眼？&lt;/p&gt;
+
+&lt;p&gt;A 3D cube we stand at one corner, all the faces are mirrors and we have a bean light, can we point at some direction and blind ourself (that means, the light bean hit the corner exactly where we standed after several reflections).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>number-of-odd-digits</title>
+      <title>小学数学太难了系列2</title>
       <link>https://dongwuxiehui.github.io/number-of-odd-digits/</link>
       <pubDate>Mon, 08 Jan 2018 17:25:30 +0300</pubDate>
       
       <guid>https://dongwuxiehui.github.io/number-of-odd-digits/</guid>
-      <description>&lt;p&gt;A question you can ask to chiese primary school students, how many odd digits are there in the product &lt;code&gt;\(2018\cdots 2018\times 15151414\cdots 0707\)&lt;/code&gt;, where the first factor is 2018 repeated 28 times.&lt;/p&gt;
+      <description>&lt;p&gt;在乘积&lt;code&gt;\(2018\cdots 2018\times 15151414\cdots 0707\)&lt;/code&gt;的十进制表示中，共有多少个奇数？&lt;/p&gt;
+
+&lt;p&gt;A question you can ask to chiese primary school students, how many odd digits are there in the product &lt;code&gt;\(2018\cdots 2018\times 15151414\cdots 0707\)&lt;/code&gt;, where the first factor is 2018 repeated 28 times.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>set-prob-yt</title>
+      <title>最小并集问题</title>
       <link>https://dongwuxiehui.github.io/set-prob-yt/</link>
       <pubDate>Sun, 05 Nov 2017 17:25:30 +0300</pubDate>
       
       <guid>https://dongwuxiehui.github.io/set-prob-yt/</guid>
-      <description>&lt;p&gt;Let &lt;code&gt;\(A_1 ,\ldots,A_n\)&lt;/code&gt; be finite subsets of positive integers, such that no two of the &lt;code&gt;\(A_i\)&lt;/code&gt; have same number of elements and &lt;code&gt;\(A_i\)&lt;/code&gt; is not a subset of &lt;code&gt;\(A_j\)&lt;/code&gt; for &lt;code&gt;\(i\ne j\)&lt;/code&gt;. What is the smallest possible number of elements in &lt;code&gt;\(\cup_i A_i\)&lt;/code&gt;?&lt;/p&gt;
+      <description>&lt;p&gt;令A_1, &amp;hellip;, A_n 爲元素個數互不相等的n個正整數集且滿足對任意的i，j，A_i \notsubset A_j。 求它們幷集的元素個數的最小值。&lt;/p&gt;
+
+&lt;p&gt;Let &lt;code&gt;\(A_1 ,\ldots,A_n\)&lt;/code&gt; be finite subsets of positive integers, such that no two of the &lt;code&gt;\(A_i\)&lt;/code&gt; have same number of elements and &lt;code&gt;\(A_i\)&lt;/code&gt; is not a subset of &lt;code&gt;\(A_j\)&lt;/code&gt; for &lt;code&gt;\(i\ne j\)&lt;/code&gt;. What is the smallest possible number of elements in &lt;code&gt;\(\cup_i A_i\)&lt;/code&gt;?&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>primaryschool level puzzle</title>
+      <title>小学数学太难了系列1</title>
       <link>https://dongwuxiehui.github.io/primaryschool/</link>
       <pubDate>Sat, 07 Oct 2017 17:25:30 +0300</pubDate>
       
       <guid>https://dongwuxiehui.github.io/primaryschool/</guid>
-      <description>&lt;p&gt;是否存在一个整数,使得它的1倍,2倍,&amp;hellip;,100000 倍 的末六位不是 6个一样的数字, 即 000000, 111111, &amp;hellip; , 999999.&lt;/p&gt;
+      <description>&lt;p&gt;是否存在一个整数,使得它的1倍,2倍,&amp;hellip;,500000 倍 的末六位不是 6个一样的数字, 即 000000, 111111, &amp;hellip; , 999999.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>rectangledots </title>
+      <title>长方形？不存在的，点阵</title>
       <link>https://dongwuxiehui.github.io/rectangledots/</link>
       <pubDate>Wed, 13 Sep 2017 17:25:30 +0300</pubDate>
       
       <guid>https://dongwuxiehui.github.io/rectangledots/</guid>
-      <description>&lt;p&gt;Size of maximal set of points in an n X n (side length) grid such that no 4-set of it forms a rectangle with horizontal/vertical sides.&lt;/p&gt;
+      <description>&lt;p&gt;在一個 n x n 的點陣裏最多能取出多少個點使得任意四點都不組成垂直/水平放置的長方形。&lt;/p&gt;
+
+&lt;p&gt;Size of maximal set of points in an n X n (side length) grid such that no 4-set of it forms a rectangle with horizontal/vertical sides.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>num 鱼塘玩家多雪崩</title>
-      <link>https://dongwuxiehui.github.io/number-of-bad-ranked-players/</link>
-      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
-      
-      <guid>https://dongwuxiehui.github.io/number-of-bad-ranked-players/</guid>
-      <description>&lt;p&gt;某次DOTA2赛事, 观众恰好坐成了一个 2014 X 2014 的方阵, 每个观众都有一个整数值的天梯分数 (没有的按0计算), 他们之间会相互比较自己的分数. 对于某个人, 如果前后左右相邻的人当中, 有不少于2人分数不低于他, 那么我们称这个人是 &amp;ldquo;雪崩的&amp;rdquo;, 求 &amp;ldquo;雪崩的&amp;rdquo; 人数最小值.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>pri 囚犯猜号码</title>
+      <title>囚犯猜号码</title>
       <link>https://dongwuxiehui.github.io/prisoner-box-label/</link>
       <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
       
@@ -92,7 +116,7 @@
     </item>
     
     <item>
-      <title>sum-odd-squares</title>
+      <title>奇平方数之和</title>
       <link>https://dongwuxiehui.github.io/sum-odd-squares/</link>
       <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
       
@@ -103,12 +127,22 @@ $$\pm 1^2\pm 3^2\pm \cdots \pm (2k+1)^2?$$&lt;/p&gt;
     </item>
     
     <item>
-      <title>toss-til-6 投个666</title>
+      <title>投个666</title>
       <link>https://dongwuxiehui.github.io/toss-til-6/</link>
       <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
       
       <guid>https://dongwuxiehui.github.io/toss-til-6/</guid>
       <description>&lt;p&gt;投一枚色子, 直到投到6停止, 在假定投到的数字全是偶数的前提下, 求平均需要投多少次?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>鱼塘玩家多雪崩</title>
+      <link>https://dongwuxiehui.github.io/number-of-bad-ranked-players/</link>
+      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/number-of-bad-ranked-players/</guid>
+      <description>&lt;p&gt;某次DOTA2赛事, 观众恰好坐成了一个 2014 X 2014 的方阵, 每个观众都有一个整数值的天梯分数 (没有的按0计算), 他们之间会相互比较自己的分数. 对于某个人, 如果前后左右相邻的人当中, 有不少于2人分数不低于他, 那么我们称这个人是 &amp;ldquo;雪崩的&amp;rdquo;, 求 &amp;ldquo;雪崩的&amp;rdquo; 人数最小值.&lt;/p&gt;
 </description>
     </item>
     
@@ -145,7 +179,7 @@ Is it always possible, no matter how the rabbit moves, and no matter what points
     </item>
     
     <item>
-      <title>cut-rope 快刀乱麻斩</title>
+      <title>快刀乱麻斩</title>
       <link>https://dongwuxiehui.github.io/cut-rope/</link>
       <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
       
@@ -161,16 +195,6 @@ Is it always possible, no matter how the rabbit moves, and no matter what points
       
       <guid>https://dongwuxiehui.github.io/light-on/</guid>
       <description>&lt;p&gt;取一个联通图, 每个顶点有盏灯及一个开关, 拨动开关后,与该顶点的相邻的顶点的灯将改变状态, 问怎样的图才可从灯全灭 按至灯全亮.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>8-coins-guess 合作猜硬币</title>
-      <link>https://dongwuxiehui.github.io/8-coins-guess/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
-      
-      <guid>https://dongwuxiehui.github.io/8-coins-guess/</guid>
-      <description>&lt;p&gt;甲乙面前各排列了8枚硬币, 硬币的正反面完全随机, 他们均只能看到自己的硬币. 游戏开始后, 甲乙各自写下将从对方那里取出给几号硬币, 如果他们均取了一枚正面朝上的硬币, 那么两人取胜, 否则记为游戏失败. 问是否有一个策略使得取胜概率超过1/4? 最佳策略的取胜概率为几?&lt;/p&gt;
 </description>
     </item>
     
