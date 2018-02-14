@@ -78,7 +78,17 @@
     </item>
     
     <item>
-      <title>distrait-passenger 心神恍惚的乘客</title>
+      <title>大象食蕉</title>
+      <link>https://dongwuxiehui.github.io/elephant-bananas/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/elephant-bananas/</guid>
+      <description>&lt;p&gt;有一只大象，每走一米要吃一只香蕉，否则就走动了。然后大象要从A走到B，之间的距离是1000米。出发点有2000只香蕉，大象最多能带着1000只香蕉赶路。大象最多能运多少只香蕉到终点？怎么运？为什么这是最多了？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>心神恍惚的乘客</title>
       <link>https://dongwuxiehui.github.io/distrait-passenger/</link>
       <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
       
@@ -86,16 +96,6 @@
       <description>&lt;p&gt;100位乘客按顺序登机, 前10位登机的乘客心神恍惚, 每个人都随便选了一个无人的位置坐下. 后面的乘客则遵守规则, 希望坐到自己的座位上, 如果他们的座位已经有人, 他们则随机挑一个无人的位置坐下, 问最后一人坐在它自己的位置的概率是多大?&lt;/p&gt;
 
 &lt;p&gt;100 passengers enter the cabin in order, the first 10 passengers are distrait and randomly choose their seat. Other passengers comes in order, they will seat at their seat if it was not taken, or randomly choose an available seat otherwise. What is the Fun that the very last passenger seat in his own seat?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>大象食蕉</title>
-      <link>https://dongwuxiehui.github.io/elephant-bananas/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
-      
-      <guid>https://dongwuxiehui.github.io/elephant-bananas/</guid>
-      <description>&lt;p&gt;有一只大象，每走一米要吃一只香蕉，否则就走动了。然后大象要从A走到B，之间的距离是1000米。出发点有2000只香蕉，大象最多能带着1000只香蕉赶路。大象最多能运多少只香蕉到终点？怎么运？为什么这是最多了？&lt;/p&gt;
 </description>
     </item>
     

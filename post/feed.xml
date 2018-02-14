@@ -21,7 +21,7 @@
 嘻嘻熊：走右边。
 浮夸海豹：如果我们之中有2个诚实会员，那你应该听哈哈狗同志的话。&lt;/p&gt;
 
-&lt;p&gt;已知动物协会的成员中诚实会员只说真话，浮夸会员只说假话， 问你应该走哪条路？&lt;/p&gt;
+&lt;p&gt;已知动物协会的成员中诚实会员只说真话，浮夸会员只说假话， 且只有这两种会员， 问你应该走哪条路？&lt;/p&gt;
 
 &lt;p&gt;You come to a fork in the road. You know that exactly one of the paths leads to the city, but you do not know which one. You see three natives, named Alan, Beth and Carl, standing nearby, and you ask them which path you should take. They make the following statements.&lt;/p&gt;
 
@@ -147,7 +147,7 @@ $$\pm 1^2\pm 3^2\pm \cdots \pm (2k+1)^2?$$&lt;/p&gt;
     </item>
     
     <item>
-      <title>rabbit-hunter 兔子与猎人 </title>
+      <title>兔子与猎人 </title>
       <link>https://dongwuxiehui.github.io/rabbit-hunter/</link>
       <pubDate>Tue, 05 Sep 2017 17:25:30 +0300</pubDate>
       
@@ -169,16 +169,6 @@ Is it always possible, no matter how the rabbit moves, and no matter what points
     </item>
     
     <item>
-      <title>beep </title>
-      <link>https://dongwuxiehui.github.io/beep/</link>
-      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
-      
-      <guid>https://dongwuxiehui.github.io/beep/</guid>
-      <description>&lt;p&gt;有n个人, 每个人有一个 小与1的正数 &lt;code&gt;\( p_i \)&lt;/code&gt;, 每个人只知道自己的数, 每一轮他们可选择发出哔哔声, 场外听众只能听到有哔声或者没有, 问他们如何才能使场外观众每轮听到哔的概率为 &lt;code&gt;\( p_i \)&lt;/code&gt; 的乘积? 假如有些人的 &lt;code&gt;\( p_i&amp;gt;1 \)&lt;/code&gt; 但乘积小与1, 是否可以使得听众每 &lt;code&gt;\( \log n \)&lt;/code&gt;  轮连续听到哔哔声的概率为乘积?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>快刀乱麻斩</title>
       <link>https://dongwuxiehui.github.io/cut-rope/</link>
       <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
@@ -195,6 +185,16 @@ Is it always possible, no matter how the rabbit moves, and no matter what points
       
       <guid>https://dongwuxiehui.github.io/light-on/</guid>
       <description>&lt;p&gt;取一个联通图, 每个顶点有盏灯及一个开关, 拨动开关后,与该顶点的相邻的顶点的灯将改变状态, 问怎样的图才可从灯全灭 按至灯全亮.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>瞎逼逼</title>
+      <link>https://dongwuxiehui.github.io/beep/</link>
+      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/beep/</guid>
+      <description>&lt;p&gt;有n个人, 每个人有一个 小与1的正数 &lt;code&gt;\( p_i \)&lt;/code&gt;, 每个人只知道自己的数, 每一轮他们可选择发出哔哔声, 场外听众只能听到有哔声或者没有, 问他们如何才能使场外观众每轮听到哔的概率为 &lt;code&gt;\( p_i \)&lt;/code&gt; 的乘积? 假如有些人的 &lt;code&gt;\( p_i&amp;gt;1 \)&lt;/code&gt; 但乘积小与1, 是否可以使得听众每 &lt;code&gt;\( \log n \)&lt;/code&gt;  轮连续听到哔哔声的概率为乘积?&lt;/p&gt;
 </description>
     </item>
     

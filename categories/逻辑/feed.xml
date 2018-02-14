@@ -21,7 +21,7 @@
 嘻嘻熊：走右边。
 浮夸海豹：如果我们之中有2个诚实会员，那你应该听哈哈狗同志的话。&lt;/p&gt;
 
-&lt;p&gt;已知动物协会的成员中诚实会员只说真话，浮夸会员只说假话， 问你应该走哪条路？&lt;/p&gt;
+&lt;p&gt;已知动物协会的成员中诚实会员只说真话，浮夸会员只说假话， 且只有这两种会员， 问你应该走哪条路？&lt;/p&gt;
 
 &lt;p&gt;You come to a fork in the road. You know that exactly one of the paths leads to the city, but you do not know which one. You see three natives, named Alan, Beth and Carl, standing nearby, and you ask them which path you should take. They make the following statements.&lt;/p&gt;
 
@@ -30,6 +30,16 @@ Beth: No! You should take the right fork.
 Carl: If there are at least two knights among us, then you should listen to Alan.&lt;/p&gt;
 
 &lt;p&gt;Which path will take you to the city?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>无限猜帽子颜色问题</title>
+      <link>https://dongwuxiehui.github.io/caps-color-guess-infinite/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/caps-color-guess-infinite/</guid>
+      <description>&lt;p&gt;无限(可数)个囚犯列成一队, 编号为1,2,3 &amp;hellip;, 每人头顶戴一蓝色或白色帽子, 对任意n, 囚犯 n 可以看到之后的所有人 (即 n+1,n+2,&amp;hellip;) 的帽子颜色, 典狱长将依次询问每个囚犯他们帽子的颜色, 猜对即刻无罪释放, 猜错即刻执行死刑. 问囚犯们在列队前能否商量好一个策略, 使得无论如何, 只会有有限个人死亡.&lt;/p&gt;
 </description>
     </item>
     

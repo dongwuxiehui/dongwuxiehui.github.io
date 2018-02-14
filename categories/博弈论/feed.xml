@@ -10,7 +10,7 @@
     <atom:link href="https://dongwuxiehui.github.io/categories/%E5%8D%9A%E5%BC%88%E8%AE%BA/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>rabbit-hunter 兔子与猎人 </title>
+      <title>兔子与猎人 </title>
       <link>https://dongwuxiehui.github.io/rabbit-hunter/</link>
       <pubDate>Tue, 05 Sep 2017 17:25:30 +0300</pubDate>
       
@@ -32,22 +32,22 @@ Is it always possible, no matter how the rabbit moves, and no matter what points
     </item>
     
     <item>
-      <title>akq-game AKQ 游戏</title>
-      <link>https://dongwuxiehui.github.io/akq-game/</link>
-      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
-      
-      <guid>https://dongwuxiehui.github.io/akq-game/</guid>
-      <description>&lt;p&gt;荷官将三张牌 (分别为AKQ)洗匀并给甲乙各发一张, 甲乙均已注1元, 并还有1元可跟注, 由甲开始喊注, 甲不加注. 在此情况下, 问乙的最佳策略.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>囚犯与开关问题</title>
       <link>https://dongwuxiehui.github.io/prisoner-1-switch/</link>
       <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
       
       <guid>https://dongwuxiehui.github.io/prisoner-1-switch/</guid>
       <description>&lt;p&gt;50名囚犯被关押, 从明日开始每天将有一名随机囚犯被带到一个房间, 此房间内有一个开关, 朝向可为向上或向下, 囚犯可自由拨动开关, 如果有一天, 一名囚犯扬言: 所有囚犯都已经去过那个带开关的房间, 并且事实亦如此, 那么所有人将被释放, 如若不然, 则全体死刑. 囚犯们只在今晚有一个商量策略的机会, 是否有一个策略可以保证大家被释放?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>烟king球 游戏</title>
+      <link>https://dongwuxiehui.github.io/akq-game/</link>
+      <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/akq-game/</guid>
+      <description>&lt;p&gt;荷官将三张牌 (分别为AKQ)洗匀并给甲乙各发一张, 甲乙均已注1元, 并还有1元可跟注, 由甲开始喊注, 甲不加注. 在此情况下, 问乙的最佳策略.&lt;/p&gt;
 </description>
     </item>
     

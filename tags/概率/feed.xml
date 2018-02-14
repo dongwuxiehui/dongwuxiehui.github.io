@@ -10,16 +10,6 @@
     <atom:link href="https://dongwuxiehui.github.io/tags/%E6%A6%82%E7%8E%87/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>beep </title>
-      <link>https://dongwuxiehui.github.io/beep/</link>
-      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
-      
-      <guid>https://dongwuxiehui.github.io/beep/</guid>
-      <description>&lt;p&gt;有n个人, 每个人有一个 小与1的正数 &lt;code&gt;\( p_i \)&lt;/code&gt;, 每个人只知道自己的数, 每一轮他们可选择发出哔哔声, 场外听众只能听到有哔声或者没有, 问他们如何才能使场外观众每轮听到哔的概率为 &lt;code&gt;\( p_i \)&lt;/code&gt; 的乘积? 假如有些人的 &lt;code&gt;\( p_i&amp;gt;1 \)&lt;/code&gt; 但乘积小与1, 是否可以使得听众每 &lt;code&gt;\( \log n \)&lt;/code&gt;  轮连续听到哔哔声的概率为乘积?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>快刀乱麻斩</title>
       <link>https://dongwuxiehui.github.io/cut-rope/</link>
       <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
@@ -30,7 +20,17 @@
     </item>
     
     <item>
-      <title>distrait-passenger 心神恍惚的乘客</title>
+      <title>瞎逼逼</title>
+      <link>https://dongwuxiehui.github.io/beep/</link>
+      <pubDate>Mon, 14 Aug 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/beep/</guid>
+      <description>&lt;p&gt;有n个人, 每个人有一个 小与1的正数 &lt;code&gt;\( p_i \)&lt;/code&gt;, 每个人只知道自己的数, 每一轮他们可选择发出哔哔声, 场外听众只能听到有哔声或者没有, 问他们如何才能使场外观众每轮听到哔的概率为 &lt;code&gt;\( p_i \)&lt;/code&gt; 的乘积? 假如有些人的 &lt;code&gt;\( p_i&amp;gt;1 \)&lt;/code&gt; 但乘积小与1, 是否可以使得听众每 &lt;code&gt;\( \log n \)&lt;/code&gt;  轮连续听到哔哔声的概率为乘积?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>心神恍惚的乘客</title>
       <link>https://dongwuxiehui.github.io/distrait-passenger/</link>
       <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
       

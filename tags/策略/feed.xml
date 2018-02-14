@@ -21,7 +21,7 @@
 嘻嘻熊：走右边。
 浮夸海豹：如果我们之中有2个诚实会员，那你应该听哈哈狗同志的话。&lt;/p&gt;
 
-&lt;p&gt;已知动物协会的成员中诚实会员只说真话，浮夸会员只说假话， 问你应该走哪条路？&lt;/p&gt;
+&lt;p&gt;已知动物协会的成员中诚实会员只说真话，浮夸会员只说假话， 且只有这两种会员， 问你应该走哪条路？&lt;/p&gt;
 
 &lt;p&gt;You come to a fork in the road. You know that exactly one of the paths leads to the city, but you do not know which one. You see three natives, named Alan, Beth and Carl, standing nearby, and you ask them which path you should take. They make the following statements.&lt;/p&gt;
 
@@ -46,7 +46,29 @@ Carl: If there are at least two knights among us, then you should listen to Alan
     </item>
     
     <item>
-      <title>rabbit-hopping-boxes 兔兔跳箱子</title>
+      <title>兔子与猎人 </title>
+      <link>https://dongwuxiehui.github.io/rabbit-hunter/</link>
+      <pubDate>Tue, 05 Sep 2017 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/rabbit-hunter/</guid>
+      <description>&lt;p&gt;一个兔子和一个猎人在平面上玩一个游戏, 兔子的出发点 &lt;code&gt;\( A_0 \)&lt;/code&gt; 和 猎人的出发点 &lt;code&gt;\( B_0 \)&lt;/code&gt; 相同. &lt;code&gt;\( n-1 \)&lt;/code&gt; 轮游戏后, 兔子位于 &lt;code&gt;\( A_{n-1} \)&lt;/code&gt; 而猎人位于 &lt;code&gt;\( B_{n-1} \)&lt;/code&gt; 处. 在第 &lt;code&gt;\( n \)&lt;/code&gt;  轮, 规则如下
+- 兔子可以选择移动至一个地点 &lt;code&gt;\( A_n, \)&lt;/code&gt; 此位置满足 &lt;code&gt;\( d(A_{n},A_{n-1})=1, \)&lt;/code&gt; 即两点局距为1. 且猎人不知道兔子的确切位置.
+- 猎人年久失修的仪表盘会显示兔子的位置 &lt;code&gt;\( P_n, \)&lt;/code&gt; 但此仪表盘仅保证 &lt;code&gt;\( A_n \)&lt;/code&gt; 于 &lt;code&gt;\( P_n \)&lt;/code&gt; 距离不超过1.
+- 猎人可以选择移动至 &lt;code&gt;\( B_n \)&lt;/code&gt; 且满足 &lt;code&gt;\( d(B_n,B_{n-1})=1 .\)&lt;/code&gt; 兔子知道猎人的位置.
+猎人是否有一个策略使得, 无论兔子如何移动, 无论仪表盘如何显示, 在 &lt;code&gt;\( 10^9 \)&lt;/code&gt; 轮之后, 他可以保证他与兔子的距离小于100?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A hunter and an invisible rabbit play a game in the Euclidean plane. The rabbit&amp;rsquo;s starting point, &lt;code&gt;$A_0,$&lt;/code&gt; and the hunter&amp;rsquo;s starting point, &lt;code&gt;$B_0$&lt;/code&gt; are the same. After &lt;code&gt;$n-1$&lt;/code&gt; rounds of the game, the rabbit is at point &lt;code&gt;$A_{n-1}$&lt;/code&gt; and the hunter is at point &lt;code&gt;$B_{n-1}.$&lt;/code&gt; In the &lt;code&gt;$n^{\text{th}}$&lt;/code&gt; round of the game, three things occur in order:
+The rabbit moves invisibly to a point $A_n$ such that the distance between &lt;code&gt;$A_{n-1}$&lt;/code&gt; and &lt;code&gt;$A_n$&lt;/code&gt; is exactly&lt;code&gt;$1.$&lt;/code&gt;
+A tracking device reports a point &lt;code&gt;$P_n$&lt;/code&gt; to the hunter. The only guarantee provided by the tracking device to the hunter is that the distance between &lt;code&gt;$P_n$&lt;/code&gt; and &lt;code&gt;$A_n$&lt;/code&gt; is at most &lt;code&gt;$1.$&lt;/code&gt;
+The hunter moves visibly to a point $B_n$ such that the distance between &lt;code&gt;$B_{n-1}$&lt;/code&gt; and &lt;code&gt;$B_n$&lt;/code&gt; is exactly &lt;code&gt;$1.$&lt;/code&gt;
+Is it always possible, no matter how the rabbit moves, and no matter what points are reported by the tracking device, for the hunter to choose her moves so that after &lt;code&gt;$10^9$&lt;/code&gt; rounds, she can ensure that the distance between her and the rabbit is at most &lt;code&gt;$100?$&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>兔兔跳箱子</title>
       <link>https://dongwuxiehui.github.io/rabbit-hopping-boxes/</link>
       <pubDate>Mon, 31 Jul 2017 17:25:30 +0300</pubDate>
       
