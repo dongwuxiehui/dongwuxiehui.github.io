@@ -75,7 +75,7 @@ Carl: If there are at least two knights among us, then you should listen to Alan
       <pubDate>Sun, 05 Nov 2017 17:25:30 +0300</pubDate>
       
       <guid>https://dongwuxiehui.github.io/set-prob-yt/</guid>
-      <description>&lt;p&gt;令A_1, &amp;hellip;, A_n 爲元素個數互不相等的n個正整數集且滿足對任意的i，j，A_i \notsubset A_j。 求它們幷集的元素個數的最小值。&lt;/p&gt;
+      <description>&lt;p&gt;令 &lt;code&gt;\(A_1, ..., A_n\)&lt;/code&gt; 爲元素個數互不相等的n個正整數集且滿足對任意的&lt;code&gt;\(i，j\)&lt;/code&gt;， &lt;code&gt;\(A_i \notsubset A_j\)&lt;/code&gt;。 求它們幷集的元素個數的最小值。&lt;/p&gt;
 
 &lt;p&gt;Let &lt;code&gt;\(A_1 ,\ldots,A_n\)&lt;/code&gt; be finite subsets of positive integers, such that no two of the &lt;code&gt;\(A_i\)&lt;/code&gt; have same number of elements and &lt;code&gt;\(A_i\)&lt;/code&gt; is not a subset of &lt;code&gt;\(A_j\)&lt;/code&gt; for &lt;code&gt;\(i\ne j\)&lt;/code&gt;. What is the smallest possible number of elements in &lt;code&gt;\(\cup_i A_i\)&lt;/code&gt;?&lt;/p&gt;
 </description>
