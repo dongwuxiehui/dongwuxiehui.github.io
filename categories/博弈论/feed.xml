@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>博弈论 on Puzzles at the table/趣题拌饭</title>
+    <title>博弈论 on 动物协会</title>
     <link>https://dongwuxiehui.github.io/categories/%E5%8D%9A%E5%BC%88%E8%AE%BA/</link>
-    <description>Recent content in 博弈论 on Puzzles at the table/趣题拌饭</description>
+    <description>Recent content in 博弈论 on 动物协会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 05 Sep 2017 17:25:30 +0300</lastBuildDate>
@@ -28,6 +28,15 @@ The rabbit moves invisibly to a point $A_n$ such that the distance between &lt;c
 A tracking device reports a point &lt;code&gt;$P_n$&lt;/code&gt; to the hunter. The only guarantee provided by the tracking device to the hunter is that the distance between &lt;code&gt;$P_n$&lt;/code&gt; and &lt;code&gt;$A_n$&lt;/code&gt; is at most &lt;code&gt;$1.$&lt;/code&gt;
 The hunter moves visibly to a point $B_n$ such that the distance between &lt;code&gt;$B_{n-1}$&lt;/code&gt; and &lt;code&gt;$B_n$&lt;/code&gt; is exactly &lt;code&gt;$1.$&lt;/code&gt;
 Is it always possible, no matter how the rabbit moves, and no matter what points are reported by the tracking device, for the hunter to choose her moves so that after &lt;code&gt;$10^9$&lt;/code&gt; rounds, she can ensure that the distance between her and the rabbit is at most &lt;code&gt;$100?$&lt;/code&gt;&lt;/p&gt;
+
+&lt;div&gt;
+&lt;a class=&#34;various&#34;  href=#tips&gt;会长的话&lt;/a&gt;
+&lt;div class=&#34;hidedcontent&#34; id=tips&gt;
+  &lt;p&gt;&lt;img src=&#34;../muffin.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     

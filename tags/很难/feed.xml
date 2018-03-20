@@ -1,13 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>很难 on Puzzles at the table/趣题拌饭</title>
+    <title>很难 on 动物协会</title>
     <link>https://dongwuxiehui.github.io/tags/%E5%BE%88%E9%9A%BE/</link>
-    <description>Recent content in 很难 on Puzzles at the table/趣题拌饭</description>
+    <description>Recent content in 很难 on 动物协会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Sep 2017 17:25:30 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 17:25:30 +0300</lastBuildDate>
     <atom:link href="https://dongwuxiehui.github.io/tags/%E5%BE%88%E9%9A%BE/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>100人猜数字</title>
+      <link>https://dongwuxiehui.github.io/100guessreals/</link>
+      <pubDate>Mon, 19 Mar 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/100guessreals/</guid>
+      <description>&lt;p&gt;100个房间，每个房间里有可数个盒子，标号1,2,3 。。。在每个盒子里有一个实数。 对任意自然数n， 全部标号为n的盒子里的数都是一样的。 100位数学家玩以下游戏：在讨论完策略后，每个数学家各自进入不同的房间， 彼此之间不再交流。 在房间里，每个数学家可以打开任意多的盒子并看到里面的实数， 但不能打开全部盒子 （即至少有一个盒子不打开）。 每个数学家必须选择一个没打开的盒子，并对里面的数字作出预测。 如果至少99个数学家猜对，那么全体赢得游戏。 是否存在必胜策略？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>读心术</title>
+      <link>https://dongwuxiehui.github.io/guess-real-number/</link>
+      <pubDate>Mon, 19 Mar 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/guess-real-number/</guid>
+      <description>&lt;p&gt;甲在心里想一个实数， 丙开始猜这个数， 丙只能问如下的问题：“这个数是不是x？”， 甲回答是或者否， 问丙能否有一个随机的策略使得其百分百在有限次内猜出这个实数？&lt;/p&gt;
+
+&lt;div&gt;
+&lt;a class=&#34;various&#34;  href=#tips&gt;会长的话&lt;/a&gt;
+&lt;div class=&#34;hidedcontent&#34; id=tips&gt;
+  &lt;p&gt;Consider the following probability space: &lt;code&gt;\((\Omega,\mathcal{F},\mathbb{P})\)&lt;/code&gt;, where &lt;code&gt;\(\Omega=\mathbb{R}^{\mathbb{N}}=\{\omega=(\omega_1,\omega_2 ,\ldots)\}\)&lt;/code&gt;, let &lt;code&gt;\(x\in \mathbb{R}\)&lt;/code&gt;, define &lt;code&gt;\(A_x=\{\omega:x\in \omega\}\subset \Omega\)&lt;/code&gt;. Let &lt;code&gt;\(F\subset \mathbb{R}\)&lt;/code&gt; be finite or countable, let &lt;code&gt;\(A_F=\cap_{x\in F}A_x\)&lt;/code&gt;. Define
+&lt;code&gt;\[\mathcal{F}=\{B\subset \Omega| \exists F,\ A_F\subset B \text{ or }\exists F,\ B\subset A_F^c\}.\]&lt;/code&gt;
+One can check that &lt;code&gt;\(\mathcal{F}\)&lt;/code&gt; is a sigma-algebra, moreover, an element of &lt;code&gt;\(\mathcal{F}\)&lt;/code&gt; is either with &lt;code&gt;\(A_F\subset B\)&lt;/code&gt; for some &lt;code&gt;\(F\)&lt;/code&gt; (called the first type) or &lt;code&gt;\(B\subset A_F^c\)&lt;/code&gt; for some &lt;code&gt;\(F\)&lt;/code&gt;. Define the probability be &lt;code&gt;\(\mathbb{P}(B)=1\)&lt;/code&gt; is &lt;code&gt;\(B\)&lt;/code&gt; is of the first type, otherwise &lt;code&gt;\(\mathbb{P}(B)=0\)&lt;/code&gt;. Can check that &lt;code&gt;\(\mathbb{P}\)&lt;/code&gt; is a probability measure.&lt;/p&gt;
+
+&lt;p&gt;Now sampel a sequence &lt;code&gt;\(\omega\)&lt;/code&gt; with &lt;code&gt;\(\mathbb{P}\)&lt;/code&gt;, guess the number one by one in the sampled sequence, for any fix real &lt;code&gt;\(x\)&lt;/code&gt;, &lt;code&gt;\(\mathbb{P}(\omega\in A_x)=1\)&lt;/code&gt;, that is, almost surely, with finitely many guess we guess correctly the target.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>整系数多项式问题</title>
+      <link>https://dongwuxiehui.github.io/integer-polynomial/</link>
+      <pubDate>Sat, 03 Mar 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/integer-polynomial/</guid>
+      <description>&lt;p&gt;如果一个整系数多项式&lt;code&gt;\(P(X_1 ,\ldots,X_n)\)&lt;/code&gt;， 对于任意&lt;code&gt;\(x_1 ,\ldots,x_n\in \mathbb{Z}\)&lt;/code&gt;， &lt;code&gt;\(P(x_1 ,\ldots,x_n)\)&lt;/code&gt;是一个完全平方数， 是否存在整系数多项式&lt;code&gt;\(Q\)&lt;/code&gt;， 使得&lt;code&gt;\(P=Q^2\)&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>奇平方数之和</title>

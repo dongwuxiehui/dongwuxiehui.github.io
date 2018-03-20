@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>分析 on 动物协会</title>
+    <link>https://dongwuxiehui.github.io/tags/%E5%88%86%E6%9E%90/</link>
+    <description>Recent content in 分析 on 动物协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 03 Mar 2018 17:25:30 +0300</lastBuildDate>
+    <atom:link href="https://dongwuxiehui.github.io/tags/%E5%88%86%E6%9E%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>无理数次方问题</title>
+      <link>https://dongwuxiehui.github.io/rational-powers/</link>
+      <pubDate>Sat, 03 Mar 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/rational-powers/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;無理數的無理數次方能不能是有理數？無理數的無理數的無理數次方呢？&lt;/li&gt;
+&lt;li&gt;虛數的虛數次方能不能是實數？&lt;/li&gt;
+&lt;li&gt;超越数的自己次方能否是有理数？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+&lt;a class=&#34;various&#34;  href=#tips&gt;会长的话&lt;/a&gt;
+&lt;div class=&#34;hidedcontent&#34; id=tips&gt;
+  &lt;p&gt;&lt;code&gt;\(x\mapsto x^x\)&lt;/code&gt; 是连续递增函数， 比如&lt;code&gt;\((\sqrt{2}^{\sqrt{2}})^{\sqrt{2}}=2\)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Gelfond, Schneider 定理: 如果 &lt;code&gt;\(a,b\)&lt;/code&gt; 是代数数, 且 &lt;code&gt;\(a\notin \{0,1\},b\notin \mathbb{Q}\)&lt;/code&gt;, 那么 &lt;code&gt;\(a^b\)&lt;/code&gt; 是超越数. 如果 &lt;code&gt;\(x\in \mathbb{Q}_{&amp;gt;0}\)&lt;/code&gt; 使得 &lt;code&gt;\(x^x\in \mathbb{Q}\)&lt;/code&gt; 那么 &lt;code&gt;\(x\in \mathbb{Z}\)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lindemann-Weierstrass: &lt;code&gt;\(e,\log 2\)&lt;/code&gt; 都是超越数, 但 &lt;code&gt;\(e^{\log 2}=2\)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;其它类似问题： &lt;code&gt;\(\pi^\pi\notin \mathbb{Q}\)&lt;/code&gt;, &lt;code&gt;\(\pi^{\pi^\pi},\ \pi^{\pi^{\pi^\pi}}\)&lt;/code&gt; 是整数吗?&lt;/p&gt;
+
+&lt;p&gt;更多相关信息： &lt;a href=&#34;https://arxiv.org/pdf/1409.3790.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>逻辑 on Puzzles at the table/趣题拌饭</title>
+    <title>逻辑 on 动物协会</title>
     <link>https://dongwuxiehui.github.io/categories/%E9%80%BB%E8%BE%91/</link>
-    <description>Recent content in 逻辑 on Puzzles at the table/趣题拌饭</description>
+    <description>Recent content in 逻辑 on 动物协会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 10 Feb 2018 17:25:30 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 17:25:30 +0300</lastBuildDate>
     <atom:link href="https://dongwuxiehui.github.io/categories/%E9%80%BB%E8%BE%91/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>100人猜数字</title>
+      <link>https://dongwuxiehui.github.io/100guessreals/</link>
+      <pubDate>Mon, 19 Mar 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/100guessreals/</guid>
+      <description>&lt;p&gt;100个房间，每个房间里有可数个盒子，标号1,2,3 。。。在每个盒子里有一个实数。 对任意自然数n， 全部标号为n的盒子里的数都是一样的。 100位数学家玩以下游戏：在讨论完策略后，每个数学家各自进入不同的房间， 彼此之间不再交流。 在房间里，每个数学家可以打开任意多的盒子并看到里面的实数， 但不能打开全部盒子 （即至少有一个盒子不打开）。 每个数学家必须选择一个没打开的盒子，并对里面的数字作出预测。 如果至少99个数学家猜对，那么全体赢得游戏。 是否存在必胜策略？&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>动物协会</title>
@@ -30,6 +40,15 @@ Beth: No! You should take the right fork.
 Carl: If there are at least two knights among us, then you should listen to Alan.&lt;/p&gt;
 
 &lt;p&gt;Which path will take you to the city?&lt;/p&gt;
+
+&lt;div&gt;
+&lt;a class=&#34;various&#34;  href=#sda&gt;会长的话&lt;/a&gt;
+&lt;div class=&#34;hidedcontent&#34; id=sda&gt;
+  &lt;p&gt;浮夸海豹不浮夸， 他其实和哈哈狗一样是诚实会员， 所以走左边。&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     

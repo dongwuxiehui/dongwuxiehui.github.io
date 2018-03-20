@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>概率 on Puzzles at the table/趣题拌饭</title>
+    <title>概率 on 动物协会</title>
     <link>https://dongwuxiehui.github.io/categories/%E6%A6%82%E7%8E%87/</link>
-    <description>Recent content in 概率 on Puzzles at the table/趣题拌饭</description>
+    <description>Recent content in 概率 on 动物协会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Sep 2017 17:25:30 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 17:25:30 +0300</lastBuildDate>
     <atom:link href="https://dongwuxiehui.github.io/categories/%E6%A6%82%E7%8E%87/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>读心术</title>
+      <link>https://dongwuxiehui.github.io/guess-real-number/</link>
+      <pubDate>Mon, 19 Mar 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/guess-real-number/</guid>
+      <description>&lt;p&gt;甲在心里想一个实数， 丙开始猜这个数， 丙只能问如下的问题：“这个数是不是x？”， 甲回答是或者否， 问丙能否有一个随机的策略使得其百分百在有限次内猜出这个实数？&lt;/p&gt;
+
+&lt;div&gt;
+&lt;a class=&#34;various&#34;  href=#tips&gt;会长的话&lt;/a&gt;
+&lt;div class=&#34;hidedcontent&#34; id=tips&gt;
+  &lt;p&gt;Consider the following probability space: &lt;code&gt;\((\Omega,\mathcal{F},\mathbb{P})\)&lt;/code&gt;, where &lt;code&gt;\(\Omega=\mathbb{R}^{\mathbb{N}}=\{\omega=(\omega_1,\omega_2 ,\ldots)\}\)&lt;/code&gt;, let &lt;code&gt;\(x\in \mathbb{R}\)&lt;/code&gt;, define &lt;code&gt;\(A_x=\{\omega:x\in \omega\}\subset \Omega\)&lt;/code&gt;. Let &lt;code&gt;\(F\subset \mathbb{R}\)&lt;/code&gt; be finite or countable, let &lt;code&gt;\(A_F=\cap_{x\in F}A_x\)&lt;/code&gt;. Define
+&lt;code&gt;\[\mathcal{F}=\{B\subset \Omega| \exists F,\ A_F\subset B \text{ or }\exists F,\ B\subset A_F^c\}.\]&lt;/code&gt;
+One can check that &lt;code&gt;\(\mathcal{F}\)&lt;/code&gt; is a sigma-algebra, moreover, an element of &lt;code&gt;\(\mathcal{F}\)&lt;/code&gt; is either with &lt;code&gt;\(A_F\subset B\)&lt;/code&gt; for some &lt;code&gt;\(F\)&lt;/code&gt; (called the first type) or &lt;code&gt;\(B\subset A_F^c\)&lt;/code&gt; for some &lt;code&gt;\(F\)&lt;/code&gt;. Define the probability be &lt;code&gt;\(\mathbb{P}(B)=1\)&lt;/code&gt; is &lt;code&gt;\(B\)&lt;/code&gt; is of the first type, otherwise &lt;code&gt;\(\mathbb{P}(B)=0\)&lt;/code&gt;. Can check that &lt;code&gt;\(\mathbb{P}\)&lt;/code&gt; is a probability measure.&lt;/p&gt;
+
+&lt;p&gt;Now sampel a sequence &lt;code&gt;\(\omega\)&lt;/code&gt; with &lt;code&gt;\(\mathbb{P}\)&lt;/code&gt;, guess the number one by one in the sampled sequence, for any fix real &lt;code&gt;\(x\)&lt;/code&gt;, &lt;code&gt;\(\mathbb{P}(\omega\in A_x)=1\)&lt;/code&gt;, that is, almost surely, with finitely many guess we guess correctly the target.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>囚犯猜号码</title>

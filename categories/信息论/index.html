@@ -2,18 +2,19 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <title>信息论 - Puzzles at the table/趣题拌饭</title>
+  <meta name="robots" content="noindex">
+  <title>信息论 - 动物协会</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
   <meta name="description" content="信息论">
   <meta name="author" content="动物协会">
-  <meta itemprop="name" content="信息论 - Puzzles at the table/趣题拌饭">
+  <meta itemprop="name" content="信息论 - 动物协会">
   <meta itemprop="description" content="信息论">
   <meta itemprop="image" content="https://dongwuxiehui.github.io/img/author.jpg">
   
   
   <meta name="twitter:description" content="">
-  <link rel="alternate" href="https://dongwuxiehui.github.io/feed.xml" title="Puzzles at the table/趣题拌饭" type="application/rss+xml"/>
+  <link rel="alternate" href="https://dongwuxiehui.github.io/feed.xml" title="动物协会" type="application/rss+xml"/>
   <link rel="shortcut icon" href="https://dongwuxiehui.github.io/img/favicon.ico"/>
   <link rel="apple-touch-icon" href="https://dongwuxiehui.github.io/apple-touch-icon.png" />
   <link rel="apple-touch-icon-precomposed" href="https://dongwuxiehui.github.io/apple-touch-icon.png" />
@@ -22,17 +23,18 @@
   <script>hljs.initHighlightingOnLoad();</script>
   <link rel="stylesheet" href="https://dongwuxiehui.github.io/font/hack/css/hack.min.css">
   <link rel="stylesheet" href="https://dongwuxiehui.github.io/css/style.css">
- <script  type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  <script  type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     extensions: ["tex2jax.js"],
     jax: ["input/TeX","output/HTML-CSS"],
   tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\\[','\\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+
+  inlineMath: [['$','$'], ['\\(','\\)']],
+  displayMath: [['$$','$$'], ['\\[','\\]']],
+  processEscapes: true,
+  processEnvironments: true,
+  skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
   }
   });
 </script>
@@ -48,10 +50,20 @@ h2 {
   border-bottom: 2px solid #999999;
 }
 </style>
-
   <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += '.has-jax';
+    }
 });
 </script>
 </head>
@@ -61,8 +73,8 @@ MathJax.Hub.Config({
     <div>
   
   <div id="textlogo">
-    <h1 class="site-name"><a href="https://dongwuxiehui.github.io/" title="Puzzles at the table/趣题拌饭">Puzzles at the table/趣题拌饭</a></h1>
-    <h2 class="blog-motto">和朋友分享趣题.</h2>
+    <h1 class="site-name"><a href="https://dongwuxiehui.github.io/" title="动物协会">动物协会</a></h1>
+    <h2 class="blog-motto">动物协会，和谐社会.</h2>
   </div>
   <div class="navbar"><a class="navbutton navmobile" href="#" title="menu"></a></div>
   <nav class="animated">
@@ -70,12 +82,10 @@ MathJax.Hub.Config({
       
       <li><a href="/">Home/主页</a></li>
       
-      <li><a href="/about">About/关于</a></li>
+      <li><a href="/about">Ask Q./提问</a></li>
       
       <li><a href="/search.html">Search/搜索</a></li>
       
-      <li>
-      </li>
     </ul>
   </nav>
 </div>
@@ -112,15 +122,17 @@ MathJax.Hub.Config({
     
     <li><a href="https://dongwuxiehui.github.io/categories/%e4%bf%a1%e6%81%af%e8%ae%ba" title="信息论">信息论<sup>1</sup></a></li>
     
+    <li><a href="https://dongwuxiehui.github.io/categories/%e5%87%a0%e4%bd%95" title="几何">几何<sup>1</sup></a></li>
+    
     <li><a href="https://dongwuxiehui.github.io/categories/%e5%8d%9a%e5%bc%88%e8%ae%ba" title="博弈论">博弈论<sup>4</sup></a></li>
     
-    <li><a href="https://dongwuxiehui.github.io/categories/%e6%95%b0%e8%ae%ba" title="数论">数论<sup>4</sup></a></li>
+    <li><a href="https://dongwuxiehui.github.io/categories/%e6%95%b0%e8%ae%ba" title="数论">数论<sup>7</sup></a></li>
     
-    <li><a href="https://dongwuxiehui.github.io/categories/%e6%a6%82%e7%8e%87" title="概率">概率<sup>5</sup></a></li>
+    <li><a href="https://dongwuxiehui.github.io/categories/%e6%a6%82%e7%8e%87" title="概率">概率<sup>6</sup></a></li>
     
     <li><a href="https://dongwuxiehui.github.io/categories/%e7%bb%84%e5%90%88" title="组合">组合<sup>8</sup></a></li>
     
-    <li><a href="https://dongwuxiehui.github.io/categories/%e9%80%bb%e8%be%91" title="逻辑">逻辑<sup>2</sup></a></li>
+    <li><a href="https://dongwuxiehui.github.io/categories/%e9%80%bb%e8%be%91" title="逻辑">逻辑<sup>3</sup></a></li>
     
   </ul>
 </div>
@@ -133,13 +145,15 @@ MathJax.Hub.Config({
 	<p class="asidetitle">Tags/标签</p>
 		<ul class="clearfix">
       
+			<li><a href="https://dongwuxiehui.github.io/tags/%e5%88%86%e6%9e%90" title="分析">分析<sup>1</sup></a></li>
+      
 			<li><a href="https://dongwuxiehui.github.io/tags/%e5%9b%be%e8%ae%ba" title="图论">图论<sup>2</sup></a></li>
       
-			<li><a href="https://dongwuxiehui.github.io/tags/%e5%b0%8f%e5%ad%a6%e7%ba%a7%e5%88%ab" title="小学级别">小学级别<sup>2</sup></a></li>
+			<li><a href="https://dongwuxiehui.github.io/tags/%e5%b0%8f%e5%ad%a6%e7%ba%a7%e5%88%ab" title="小学级别">小学级别<sup>4</sup></a></li>
       
 			<li><a href="https://dongwuxiehui.github.io/tags/%e5%b9%b3%e9%93%ba" title="平铺">平铺<sup>1</sup></a></li>
       
-			<li><a href="https://dongwuxiehui.github.io/tags/%e5%be%88%e9%9a%be" title="很难">很难<sup>1</sup></a></li>
+			<li><a href="https://dongwuxiehui.github.io/tags/%e5%be%88%e9%9a%be" title="很难">很难<sup>4</sup></a></li>
       
 			<li><a href="https://dongwuxiehui.github.io/tags/%e6%89%91%e5%85%8b" title="扑克">扑克<sup>1</sup></a></li>
       
@@ -162,6 +176,11 @@ MathJax.Hub.Config({
   <div class="archiveslist">
     <p class="asidetitle">Archives/归档</p>
     <ul class="archive-list">
+      
+      
+      <li class="archive-list-item">
+        <a class="archive-list-link" href="https://dongwuxiehui.github.io/post/#2018-03">2018-03</a><span class="archive-list-count">6</span>
+      </li>
       
       
       <li class="archive-list-item">
@@ -213,6 +232,8 @@ MathJax.Hub.Config({
 <div class="tagcloudlist">
   <p class="asidetitle">Tags cloud/标签云</p>
   <div class="tagcloudlist clearfix">
+    
+    <a href="https://dongwuxiehui.github.io/tags/%e5%88%86%e6%9e%90" style="font-size: 12px;">分析</a>
     
     <a href="https://dongwuxiehui.github.io/tags/%e5%9b%be%e8%ae%ba" style="font-size: 12px;">图论</a>
     

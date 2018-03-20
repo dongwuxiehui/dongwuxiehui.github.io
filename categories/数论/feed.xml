@@ -1,13 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>数论 on Puzzles at the table/趣题拌饭</title>
+    <title>数论 on 动物协会</title>
     <link>https://dongwuxiehui.github.io/categories/%E6%95%B0%E8%AE%BA/</link>
-    <description>Recent content in 数论 on Puzzles at the table/趣题拌饭</description>
+    <description>Recent content in 数论 on 动物协会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Jan 2018 17:25:30 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 17:25:30 +0300</lastBuildDate>
     <atom:link href="https://dongwuxiehui.github.io/categories/%E6%95%B0%E8%AE%BA/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>数论猜数字</title>
+      <link>https://dongwuxiehui.github.io/logic-guess-number/</link>
+      <pubDate>Mon, 19 Mar 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/logic-guess-number/</guid>
+      <description>&lt;p&gt;鬼谷子从2到99里选出2个不同的整数， 把两数之和告诉路庞涓， 把乘积告诉了孙膑。
+庞涓对孙膑说：虽然我无法确定这两个数是什么， 但我肯定你也不知道这两个数是什么。
+孙膑说：本来问不知道，你这么一说，我就知道了。
+庞涓说：那我也知道了。&lt;/p&gt;
+
+&lt;p&gt;这2个数是什么？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>整系数多项式问题</title>
+      <link>https://dongwuxiehui.github.io/integer-polynomial/</link>
+      <pubDate>Sat, 03 Mar 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/integer-polynomial/</guid>
+      <description>&lt;p&gt;如果一个整系数多项式&lt;code&gt;\(P(X_1 ,\ldots,X_n)\)&lt;/code&gt;， 对于任意&lt;code&gt;\(x_1 ,\ldots,x_n\in \mathbb{Z}\)&lt;/code&gt;， &lt;code&gt;\(P(x_1 ,\ldots,x_n)\)&lt;/code&gt;是一个完全平方数， 是否存在整系数多项式&lt;code&gt;\(Q\)&lt;/code&gt;， 使得&lt;code&gt;\(P=Q^2\)&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>无理数次方问题</title>
+      <link>https://dongwuxiehui.github.io/rational-powers/</link>
+      <pubDate>Sat, 03 Mar 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/rational-powers/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;無理數的無理數次方能不能是有理數？無理數的無理數的無理數次方呢？&lt;/li&gt;
+&lt;li&gt;虛數的虛數次方能不能是實數？&lt;/li&gt;
+&lt;li&gt;超越数的自己次方能否是有理数？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+&lt;a class=&#34;various&#34;  href=#tips&gt;会长的话&lt;/a&gt;
+&lt;div class=&#34;hidedcontent&#34; id=tips&gt;
+  &lt;p&gt;&lt;code&gt;\(x\mapsto x^x\)&lt;/code&gt; 是连续递增函数， 比如&lt;code&gt;\((\sqrt{2}^{\sqrt{2}})^{\sqrt{2}}=2\)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Gelfond, Schneider 定理: 如果 &lt;code&gt;\(a,b\)&lt;/code&gt; 是代数数, 且 &lt;code&gt;\(a\notin \{0,1\},b\notin \mathbb{Q}\)&lt;/code&gt;, 那么 &lt;code&gt;\(a^b\)&lt;/code&gt; 是超越数. 如果 &lt;code&gt;\(x\in \mathbb{Q}_{&amp;gt;0}\)&lt;/code&gt; 使得 &lt;code&gt;\(x^x\in \mathbb{Q}\)&lt;/code&gt; 那么 &lt;code&gt;\(x\in \mathbb{Z}\)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lindemann-Weierstrass: &lt;code&gt;\(e,\log 2\)&lt;/code&gt; 都是超越数, 但 &lt;code&gt;\(e^{\log 2}=2\)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;其它类似问题： &lt;code&gt;\(\pi^\pi\notin \mathbb{Q}\)&lt;/code&gt;, &lt;code&gt;\(\pi^{\pi^\pi},\ \pi^{\pi^{\pi^\pi}}\)&lt;/code&gt; 是整数吗?&lt;/p&gt;
+
+&lt;p&gt;更多相关信息： &lt;a href=&#34;https://arxiv.org/pdf/1409.3790.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>小学数学太难了系列2</title>
@@ -18,6 +74,15 @@
       <description>&lt;p&gt;在乘积&lt;code&gt;\(2018\cdots 2018\times 15151414\cdots 0707\)&lt;/code&gt;的十进制表示中，共有多少个奇数？&lt;/p&gt;
 
 &lt;p&gt;A question you can ask to chiese primary school students, how many odd digits are there in the product &lt;code&gt;\(2018\cdots 2018\times 15151414\cdots 0707\)&lt;/code&gt;, where the first factor is 2018 repeated 28 times.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;a class=&#34;various&#34;  href=#tips&gt;会长的话&lt;/a&gt;
+&lt;div class=&#34;hidedcontent&#34; id=tips&gt;
+  &lt;p&gt;&lt;code&gt;\(2018\times 1515\cdots0707=9999\times c,\ \ c\in \mathbb{Z}\)&lt;/code&gt;， 根据杯中兔同志的计算，答案是71.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
