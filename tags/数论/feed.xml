@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fun on 动物协会</title>
-    <link>https://dongwuxiehui.github.io/categories/fun/</link>
-    <description>Recent content in Fun on 动物协会</description>
+    <title>数论 on 动物协会</title>
+    <link>https://dongwuxiehui.github.io/tags/%E6%95%B0%E8%AE%BA/</link>
+    <description>Recent content in 数论 on 动物协会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 10 Apr 2018 17:25:30 +0300</lastBuildDate>
-    <atom:link href="https://dongwuxiehui.github.io/categories/fun/feed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dongwuxiehui.github.io/tags/%E6%95%B0%E8%AE%BA/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>整数五子棋</title>

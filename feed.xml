@@ -6,8 +6,28 @@
     <description>Recent content on 动物协会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Mar 2018 17:25:30 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 22 May 2018 17:25:30 +0300</lastBuildDate>
     <atom:link href="https://dongwuxiehui.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>随机凸包</title>
+      <link>https://dongwuxiehui.github.io/contain-center/</link>
+      <pubDate>Tue, 22 May 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/contain-center/</guid>
+      <description>&lt;p&gt;在一个圆周上随机分布着3个点，问组成的三角形包括圆心的概率是多大？ （每个点都平均分布且独立）。 在 &lt;code&gt;\(n\)&lt;/code&gt; 维球面上分布着&lt;code&gt;\(n＋2\)&lt;/code&gt;个点的话概率又是多少？ 假如有 &lt;code&gt;\(n＋k\)&lt;/code&gt;个点呢？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>整数五子棋</title>
+      <link>https://dongwuxiehui.github.io/game-on-integer/</link>
+      <pubDate>Tue, 10 Apr 2018 17:25:30 +0300</pubDate>
+      
+      <guid>https://dongwuxiehui.github.io/game-on-integer/</guid>
+      <description>&lt;p&gt;海绵宝宝和章鱼哥玩下面的游戏：海绵宝宝选一个整数，章鱼哥选 &lt;code&gt;\(k\)&lt;/code&gt; 个整数， 轮着选， 海绵宝宝不能选章鱼哥选过的数， 如果某一轮后海绵宝宝挑的数里面有一个长为 10 的等差数列， 则海绵宝宝获胜。 请问： 章鱼哥输定了吗？&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>100人猜数字</title>
@@ -164,7 +184,7 @@ Carl: If there are at least two knights among us, then you should listen to Alan
     </item>
     
     <item>
-      <title>激光瞎了吾之犬瞳</title>
+      <title>哎哟，我的眼睛</title>
       <link>https://dongwuxiehui.github.io/light-in-a-cube/</link>
       <pubDate>Mon, 15 Jan 2018 17:25:30 +0300</pubDate>
       
@@ -227,29 +247,6 @@ Carl: If there are at least two knights among us, then you should listen to Alan
       <description>&lt;p&gt;在一個 n x n 的點陣裏最多能取出多少個點使得任意四點都不組成垂直/水平放置的長方形。&lt;/p&gt;
 
 &lt;p&gt;Size of maximal set of points in an n X n (side length) grid such that no 4-set of it forms a rectangle with horizontal/vertical sides.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>囚犯猜号码</title>
-      <link>https://dongwuxiehui.github.io/prisoner-box-label/</link>
-      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
-      
-      <guid>https://dongwuxiehui.github.io/prisoner-box-label/</guid>
-      <description>&lt;p&gt;100个编号的犯人, 一个小黑屋. 小黑屋里面有100个编号分别为1到100的箱子, 100个号码牌打乱分放在箱子里,每个箱子里一个. 每个犯人可以进一次小黑屋看50个箱子里的号码. 有人进小黑屋后所有人都不能交流.&lt;/p&gt;
-
-&lt;p&gt;犯人们的目标是找到哪个箱子里有自己的号码. 如果所有犯人都找对了自己号码的箱子则全部释放, 否则全部杀头, 找一个犯人的策略使得生存机会比较大.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>奇平方数之和</title>
-      <link>https://dongwuxiehui.github.io/sum-odd-squares/</link>
-      <pubDate>Sat, 09 Sep 2017 17:25:30 +0300</pubDate>
-      
-      <guid>https://dongwuxiehui.github.io/sum-odd-squares/</guid>
-      <description>&lt;p&gt;问是否任意整数可以有无穷多种方法写成
-$$\pm 1^2\pm 3^2\pm \cdots \pm (2k+1)^2?$$&lt;/p&gt;
 </description>
     </item>
     
